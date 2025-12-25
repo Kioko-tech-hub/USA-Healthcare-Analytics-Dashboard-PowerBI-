@@ -1,0 +1,1001 @@
+Visit_ID,Patient_ID,Age,Gender,Department,Visit_Date,Doctor_ID,Doctor_Specialization,Hospital_Name,City,Treatment_Cost,Insurance_Coverage,Payment_Method
+V0001,P192,33,M,Neurology,12/05/2024,D296,Neurologist,Lakeside General Hospital,New York,6265.55,0.31,Cash
+V0002,P788,51,F,General Medicine,28/06/2024,D281,General Physician,MetroCare Clinic,Los Angeles,4516.4,0.85,Card
+V0003,P961,18,F,Neurology,19/04/2024,D283,Neurologist,Lakeside General Hospital,Los Angeles,7380.69,0.76,Insurance
+V0004,P992,20,F,Orthopedics,03/01/2024,D240,Orthopedic Surgeon,Lakeside General Hospital,New York,3159.04,0.53,Insurance
+V0005,P643,77,F,Neurology,03/04/2024,D239,Neurologist,MetroCare Clinic,Los Angeles,561.74,0.42,Insurance
+V0006,P413,89,M,General Medicine,22/06/2024,D264,General Physician,Lakeside General Hospital,Chicago,7129.44,0.52,Card
+V0007,P209,71,F,Pediatrics,09/11/2024,D268,Pediatrician,Greenfield Medical Center,Miami,1318.95,0.98,Card
+V0008,P588,48,M,Dermatology,19/01/2025,D277,Dermatologist,Greenfield Medical Center,Houston,9073.33,0.52,Cash
+V0009,P117,30,F,Orthopedics,08/01/2025,D246,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,3178.22,0.56,Cash
+V0010,P671,68,F,Orthopedics,08/06/2024,D262,Orthopedic Surgeon,Sunrise Health Institute,Miami,1494.08,0.35,Insurance
+V0011,P173,75,M,Oncology,03/07/2025,D214,Oncologist,MetroCare Clinic,Houston,879.53,0.99,Cash
+V0012,P235,19,F,Gynecology,25/07/2025,D274,Gynecologist,Greenfield Medical Center,New York,8094.08,0.51,Card
+V0013,P736,49,M,Dermatology,23/05/2024,D230,Dermatologist,MetroCare Clinic,New York,2144.57,0.5,Cash
+V0014,P129,11,M,Oncology,15/03/2024,D205,Oncologist,St. Mary Hospital,Miami,8874.54,0.56,Cash
+V0015,P763,42,M,Neurology,28/08/2025,D233,Neurologist,Sunrise Health Institute,Chicago,996.63,0.47,Insurance
+V0016,P712,13,M,Neurology,20/06/2024,D275,Neurologist,MetroCare Clinic,Chicago,9191.85,0.32,Card
+V0017,P551,53,M,Pediatrics,14/02/2025,D218,Pediatrician,MetroCare Clinic,Los Angeles,3886.43,0.7,Cash
+V0018,P229,23,F,Neurology,01/03/2024,D263,Neurologist,Lakeside General Hospital,New York,2699.22,0.51,Insurance
+V0019,P849,13,M,Cardiology,15/01/2025,D278,Cardiologist,MetroCare Clinic,Chicago,5252.72,0.38,Card
+V0020,P529,11,F,Dermatology,26/11/2024,D280,Dermatologist,St. Mary Hospital,Los Angeles,2509.92,0.93,Cash
+V0021,P600,83,M,Gynecology,12/06/2024,D287,Gynecologist,St. Mary Hospital,Los Angeles,4991.77,0.35,Cash
+V0022,P254,81,F,Dermatology,13/05/2025,D262,Dermatologist,Greenfield Medical Center,Miami,6915.81,0.96,Card
+V0023,P507,71,M,Dermatology,28/06/2025,D280,Dermatologist,MetroCare Clinic,Chicago,7374.23,0.67,Cash
+V0024,P577,5,M,Gynecology,26/04/2025,D213,Gynecologist,MetroCare Clinic,Chicago,4467.48,0.53,Card
+V0025,P851,18,F,Cardiology,02/11/2024,D236,Cardiologist,MetroCare Clinic,Miami,5727.04,0.61,Insurance
+V0026,P215,87,M,Orthopedics,14/05/2024,D220,Orthopedic Surgeon,MetroCare Clinic,New York,9257.49,0.81,Insurance
+V0027,P737,84,F,Neurology,15/04/2025,D271,Neurologist,Sunrise Health Institute,New York,554.43,0.74,Card
+V0028,P417,14,M,General Medicine,24/12/2024,D283,General Physician,MetroCare Clinic,New York,8178.74,0.81,Card
+V0029,P376,7,F,Neurology,17/09/2024,D296,Neurologist,Sunrise Health Institute,Miami,1494.44,0.59,Cash
+V0030,P351,71,M,Neurology,26/01/2024,D293,Neurologist,Sunrise Health Institute,Houston,4157.31,0.73,Card
+V0031,P987,31,M,Gynecology,19/07/2025,D214,Gynecologist,St. Mary Hospital,Los Angeles,7019.01,0.81,Card
+V0032,P620,56,M,Cardiology,09/09/2024,D248,Cardiologist,Lakeside General Hospital,Los Angeles,967.3,0.78,Cash
+V0033,P174,41,F,General Medicine,17/01/2025,D209,General Physician,St. Mary Hospital,Houston,361.44,0.55,Card
+V0034,P226,33,F,Dermatology,30/08/2025,D239,Dermatologist,St. Mary Hospital,New York,4115.37,0.89,Insurance
+V0035,P531,32,F,General Medicine,05/02/2024,D213,General Physician,Sunrise Health Institute,Los Angeles,9849.16,0.54,Cash
+V0036,P609,64,M,Dermatology,14/09/2024,D214,Dermatologist,Lakeside General Hospital,Houston,6255.55,0.32,Insurance
+V0037,P962,31,M,General Medicine,09/03/2025,D295,General Physician,Sunrise Health Institute,Los Angeles,615.18,0.67,Insurance
+V0038,P888,87,F,Orthopedics,10/02/2024,D277,Orthopedic Surgeon,Lakeside General Hospital,Chicago,9341.24,0.49,Insurance
+V0039,P466,38,F,Pediatrics,08/06/2024,D239,Pediatrician,St. Mary Hospital,Los Angeles,212.49,0.56,Card
+V0040,P871,46,M,Oncology,18/07/2024,D211,Oncologist,St. Mary Hospital,Chicago,289.68,0.75,Cash
+V0041,P765,50,F,Pediatrics,05/01/2025,D254,Pediatrician,Lakeside General Hospital,Chicago,4148.33,0.34,Insurance
+V0042,P287,88,M,Gynecology,07/02/2024,D223,Gynecologist,Greenfield Medical Center,Houston,5844.07,0.53,Insurance
+V0043,P505,50,M,Gynecology,10/03/2024,D286,Gynecologist,MetroCare Clinic,Los Angeles,3696.26,0.56,Card
+V0044,P834,59,M,Orthopedics,29/07/2024,D267,Orthopedic Surgeon,MetroCare Clinic,Miami,7682.08,0.92,Card
+V0045,P945,50,F,General Medicine,11/09/2025,D239,General Physician,Lakeside General Hospital,Miami,9664.01,0.81,Card
+V0046,P605,40,M,Dermatology,21/05/2025,D204,Dermatologist,St. Mary Hospital,Houston,6049.68,0.78,Cash
+V0047,P443,32,M,Dermatology,30/06/2025,D273,Dermatologist,Greenfield Medical Center,Los Angeles,8387.79,0.63,Card
+V0048,P146,73,F,Cardiology,29/07/2024,D245,Cardiologist,St. Mary Hospital,Houston,1650.07,0.61,Cash
+V0049,P884,5,M,General Medicine,24/08/2025,D290,General Physician,MetroCare Clinic,Los Angeles,7644.15,0.42,Insurance
+V0050,P109,61,F,Pediatrics,09/07/2025,D252,Pediatrician,Lakeside General Hospital,Miami,8737.19,0.92,Cash
+V0051,P297,22,M,Dermatology,28/01/2024,D257,Dermatologist,Sunrise Health Institute,Houston,9865.96,0.93,Cash
+V0052,P249,88,F,Gynecology,08/05/2025,D298,Gynecologist,St. Mary Hospital,Miami,9313.99,0.34,Card
+V0053,P575,67,M,Dermatology,23/07/2025,D207,Dermatologist,Sunrise Health Institute,New York,2794.48,0.45,Cash
+V0054,P543,54,F,General Medicine,15/01/2025,D271,General Physician,Lakeside General Hospital,New York,1001.41,0.95,Cash
+V0055,P750,89,F,Gynecology,11/03/2025,D264,Gynecologist,St. Mary Hospital,New York,3937.34,0.96,Insurance
+V0056,P589,18,M,Gynecology,08/04/2024,D297,Gynecologist,Lakeside General Hospital,Miami,9840.61,0.56,Card
+V0057,P231,20,F,Neurology,01/07/2024,D252,Neurologist,Greenfield Medical Center,Miami,3823.96,0.39,Card
+V0058,P246,89,M,Oncology,08/09/2024,D294,Oncologist,Sunrise Health Institute,Chicago,7904.36,0.81,Card
+V0059,P296,40,F,Orthopedics,07/01/2025,D276,Orthopedic Surgeon,Sunrise Health Institute,Miami,2821.8,0.49,Insurance
+V0060,P769,79,F,Pediatrics,09/07/2024,D260,Pediatrician,St. Mary Hospital,Houston,6132.15,0.32,Insurance
+V0061,P108,58,M,Oncology,09/02/2024,D287,Oncologist,Lakeside General Hospital,Los Angeles,3085.68,0.61,Cash
+V0062,P482,69,M,Dermatology,19/04/2024,D209,Dermatologist,St. Mary Hospital,Los Angeles,9568.44,0.79,Cash
+V0063,P482,21,F,Cardiology,17/04/2024,D228,Cardiologist,MetroCare Clinic,New York,7658.03,0.4,Insurance
+V0064,P846,6,F,Dermatology,07/12/2024,D249,Dermatologist,Sunrise Health Institute,Houston,8470.56,0.67,Cash
+V0065,P816,47,F,Oncology,25/02/2024,D286,Oncologist,Greenfield Medical Center,Los Angeles,5381.88,0.64,Insurance
+V0066,P486,40,M,Dermatology,16/02/2025,D251,Dermatologist,St. Mary Hospital,Chicago,3429.82,0.58,Card
+V0067,P206,47,M,General Medicine,18/02/2024,D244,General Physician,Greenfield Medical Center,Miami,7954.65,0.33,Insurance
+V0068,P497,9,M,Oncology,28/07/2024,D224,Oncologist,St. Mary Hospital,Los Angeles,3097.61,0.83,Card
+V0069,P276,10,F,Gynecology,16/12/2024,D260,Gynecologist,MetroCare Clinic,Houston,4585.03,0.35,Card
+V0070,P606,56,M,Gynecology,04/06/2025,D278,Gynecologist,Lakeside General Hospital,New York,7313.78,0.71,Insurance
+V0071,P202,14,M,General Medicine,18/07/2025,D287,General Physician,Lakeside General Hospital,Los Angeles,4445.91,0.93,Cash
+V0072,P930,55,M,Gynecology,16/08/2024,D280,Gynecologist,MetroCare Clinic,Miami,7608.49,0.37,Insurance
+V0073,P496,42,F,Dermatology,17/08/2024,D280,Dermatologist,Lakeside General Hospital,New York,1946.69,0.4,Insurance
+V0074,P960,33,F,Gynecology,16/07/2024,D229,Gynecologist,Lakeside General Hospital,Miami,1278.34,0.97,Cash
+V0075,P554,78,F,Orthopedics,20/03/2024,D240,Orthopedic Surgeon,St. Mary Hospital,Miami,939.39,0.54,Cash
+V0076,P341,13,F,General Medicine,02/02/2025,D272,General Physician,Lakeside General Hospital,Los Angeles,2473.78,0.66,Cash
+V0077,P356,85,F,Pediatrics,01/03/2025,D242,Pediatrician,St. Mary Hospital,Los Angeles,8337.81,0.41,Cash
+V0078,P609,71,F,Dermatology,27/05/2024,D251,Dermatologist,Lakeside General Hospital,Miami,5755.53,0.45,Cash
+V0079,P942,49,F,Oncology,01/03/2024,D227,Oncologist,MetroCare Clinic,Chicago,9160.26,0.98,Cash
+V0080,P255,32,M,General Medicine,10/02/2025,D229,General Physician,Sunrise Health Institute,Chicago,3511.83,0.55,Cash
+V0081,P844,33,F,Dermatology,28/03/2024,D233,Dermatologist,Sunrise Health Institute,Chicago,5657.47,0.66,Insurance
+V0082,P572,36,F,Orthopedics,09/08/2024,D237,Orthopedic Surgeon,Greenfield Medical Center,New York,9533.82,0.71,Card
+V0083,P417,51,M,Oncology,25/11/2024,D280,Oncologist,Greenfield Medical Center,New York,5528.88,0.48,Insurance
+V0084,P548,61,F,Gynecology,23/09/2025,D240,Gynecologist,Lakeside General Hospital,Chicago,764.69,0.42,Card
+V0085,P985,70,M,Gynecology,13/03/2024,D243,Gynecologist,St. Mary Hospital,Chicago,1977.93,0.6,Cash
+V0086,P159,27,F,Gynecology,16/01/2024,D275,Gynecologist,MetroCare Clinic,Los Angeles,3860.81,0.61,Card
+V0087,P203,46,M,Neurology,23/07/2024,D274,Neurologist,Lakeside General Hospital,New York,226.42,0.6,Card
+V0088,P297,29,F,Orthopedics,16/09/2025,D260,Orthopedic Surgeon,Lakeside General Hospital,New York,4372.57,0.99,Cash
+V0089,P452,25,F,Pediatrics,18/09/2025,D291,Pediatrician,Greenfield Medical Center,Miami,8757.87,0.71,Cash
+V0090,P742,21,F,Gynecology,06/05/2024,D264,Gynecologist,Lakeside General Hospital,Miami,4793.44,0.31,Insurance
+V0091,P580,60,F,Neurology,04/01/2025,D248,Neurologist,MetroCare Clinic,Chicago,6299.03,0.86,Insurance
+V0092,P202,72,M,Gynecology,13/04/2024,D231,Gynecologist,St. Mary Hospital,Miami,1811.44,0.71,Insurance
+V0093,P741,60,F,Oncology,01/09/2024,D272,Oncologist,MetroCare Clinic,Miami,1117.06,0.69,Insurance
+V0094,P265,68,F,Cardiology,25/04/2024,D209,Cardiologist,MetroCare Clinic,Los Angeles,4235.16,0.87,Card
+V0095,P416,75,F,General Medicine,30/06/2025,D205,General Physician,Lakeside General Hospital,Miami,8535.36,0.84,Cash
+V0096,P590,33,F,Gynecology,10/08/2024,D264,Gynecologist,MetroCare Clinic,Chicago,1797.31,0.42,Cash
+V0097,P430,41,F,Oncology,10/09/2024,D237,Oncologist,MetroCare Clinic,New York,4592.56,0.67,Insurance
+V0098,P974,76,M,Orthopedics,28/02/2024,D258,Orthopedic Surgeon,Lakeside General Hospital,Miami,5955.71,0.87,Insurance
+V0099,P340,66,F,Oncology,11/11/2024,D222,Oncologist,Lakeside General Hospital,Miami,6420.11,0.8,Cash
+V0100,P742,41,F,General Medicine,19/03/2024,D275,General Physician,Sunrise Health Institute,Miami,3458.01,0.77,Cash
+V0101,P343,29,M,Orthopedics,20/06/2025,D252,Orthopedic Surgeon,Lakeside General Hospital,Los Angeles,6689.19,0.5,Card
+V0102,P756,70,F,Oncology,20/10/2024,D207,Oncologist,Greenfield Medical Center,Houston,4855.52,0.3,Insurance
+V0103,P253,33,F,Cardiology,05/07/2024,D245,Cardiologist,MetroCare Clinic,Chicago,449.54,0.39,Insurance
+V0104,P954,48,F,Neurology,21/05/2024,D250,Neurologist,MetroCare Clinic,Miami,2397.28,0.74,Cash
+V0105,P934,75,M,Pediatrics,27/03/2024,D203,Pediatrician,St. Mary Hospital,Chicago,3018.83,0.95,Insurance
+V0106,P308,28,M,Gynecology,27/06/2024,D233,Gynecologist,Greenfield Medical Center,Chicago,2048.6,0.71,Card
+V0107,P956,15,M,General Medicine,07/10/2024,D217,General Physician,St. Mary Hospital,Houston,8661.63,0.98,Cash
+V0108,P400,86,F,Pediatrics,20/05/2025,D224,Pediatrician,MetroCare Clinic,Los Angeles,9889.44,0.71,Cash
+V0109,P738,13,M,Dermatology,29/01/2025,D236,Dermatologist,Greenfield Medical Center,Los Angeles,3475.9,0.96,Cash
+V0110,P393,6,F,Oncology,07/03/2024,D228,Oncologist,Greenfield Medical Center,Houston,2479.99,0.63,Insurance
+V0111,P572,2,F,Dermatology,22/09/2024,D283,Dermatologist,Greenfield Medical Center,Chicago,3899.47,0.43,Insurance
+V0112,P841,65,F,Gynecology,12/08/2025,D244,Gynecologist,Greenfield Medical Center,Houston,9634.44,0.86,Insurance
+V0113,P295,1,F,Gynecology,19/03/2025,D239,Gynecologist,Lakeside General Hospital,Houston,6856.12,0.49,Card
+V0114,P500,85,F,Cardiology,16/01/2025,D285,Cardiologist,Greenfield Medical Center,Miami,7580.24,0.95,Insurance
+V0115,P968,60,F,Orthopedics,25/02/2025,D255,Orthopedic Surgeon,Greenfield Medical Center,New York,1134.17,0.73,Insurance
+V0116,P558,24,F,Pediatrics,02/03/2025,D224,Pediatrician,Sunrise Health Institute,New York,3944.93,0.55,Insurance
+V0117,P772,39,F,Dermatology,03/04/2025,D274,Dermatologist,MetroCare Clinic,New York,9217.97,0.74,Card
+V0118,P836,70,F,Oncology,07/08/2025,D200,Oncologist,Sunrise Health Institute,New York,2484.88,0.8,Insurance
+V0119,P476,23,F,Oncology,04/09/2024,D202,Oncologist,MetroCare Clinic,Los Angeles,8100.73,0.52,Insurance
+V0120,P766,68,F,General Medicine,12/11/2024,D219,General Physician,Greenfield Medical Center,Miami,5480.32,0.53,Insurance
+V0121,P438,80,F,Pediatrics,23/08/2025,D272,Pediatrician,Sunrise Health Institute,Chicago,2245.54,0.65,Card
+V0122,P634,22,M,General Medicine,30/06/2025,D262,General Physician,St. Mary Hospital,Miami,901.68,0.69,Cash
+V0123,P835,85,F,Dermatology,01/12/2024,D287,Dermatologist,Lakeside General Hospital,Houston,3899.66,0.82,Insurance
+V0124,P865,29,F,Dermatology,22/03/2025,D270,Dermatologist,Sunrise Health Institute,Chicago,4778.84,0.86,Cash
+V0125,P163,40,F,Orthopedics,21/05/2024,D259,Orthopedic Surgeon,MetroCare Clinic,Los Angeles,6698.24,0.75,Insurance
+V0126,P343,48,M,Dermatology,14/12/2024,D211,Dermatologist,Greenfield Medical Center,Chicago,8804.98,0.67,Card
+V0127,P825,22,F,Orthopedics,06/08/2024,D288,Orthopedic Surgeon,St. Mary Hospital,Miami,4249.21,0.66,Card
+V0128,P744,89,F,Orthopedics,17/05/2024,D248,Orthopedic Surgeon,Greenfield Medical Center,New York,6453.75,0.96,Cash
+V0129,P896,65,M,Pediatrics,15/02/2025,D217,Pediatrician,Lakeside General Hospital,Houston,1378.5,0.69,Card
+V0130,P486,34,F,Orthopedics,03/01/2024,D248,Orthopedic Surgeon,Greenfield Medical Center,New York,7770.9,0.37,Card
+V0131,P612,20,F,Orthopedics,13/08/2024,D232,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,7568.03,0.75,Insurance
+V0132,P134,47,M,Orthopedics,07/09/2025,D291,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,5897.94,0.97,Cash
+V0133,P774,6,F,Orthopedics,07/10/2024,D244,Orthopedic Surgeon,MetroCare Clinic,Miami,5167.18,0.36,Cash
+V0134,P912,48,M,Orthopedics,28/08/2024,D251,Orthopedic Surgeon,St. Mary Hospital,New York,5056.6,0.43,Card
+V0135,P528,21,M,Oncology,24/07/2024,D263,Oncologist,Lakeside General Hospital,Los Angeles,3697.53,0.61,Card
+V0136,P161,86,F,Oncology,12/06/2024,D257,Oncologist,Sunrise Health Institute,New York,9712.54,0.53,Cash
+V0137,P825,14,F,Cardiology,31/08/2025,D286,Cardiologist,Lakeside General Hospital,Houston,629.37,0.93,Insurance
+V0138,P700,60,M,Cardiology,26/12/2024,D228,Cardiologist,Sunrise Health Institute,Miami,6938.93,0.65,Cash
+V0139,P926,68,F,Dermatology,28/11/2024,D284,Dermatologist,St. Mary Hospital,Houston,2642.55,0.81,Cash
+V0140,P388,86,M,Neurology,12/06/2025,D259,Neurologist,St. Mary Hospital,Houston,2246.2,0.33,Cash
+V0141,P967,18,M,Cardiology,07/07/2024,D228,Cardiologist,Sunrise Health Institute,New York,9811.58,0.81,Insurance
+V0142,P139,8,M,General Medicine,02/02/2025,D224,General Physician,MetroCare Clinic,Miami,8956.82,0.8,Cash
+V0143,P134,41,F,Dermatology,17/04/2024,D272,Dermatologist,Lakeside General Hospital,Houston,2528.73,0.52,Card
+V0144,P669,63,F,General Medicine,17/04/2025,D284,General Physician,MetroCare Clinic,Miami,4328.67,0.9,Insurance
+V0145,P456,17,F,Neurology,08/09/2024,D295,Neurologist,MetroCare Clinic,Los Angeles,7200.35,0.46,Cash
+V0146,P733,5,F,Gynecology,18/04/2024,D221,Gynecologist,Greenfield Medical Center,Los Angeles,3784.45,0.62,Cash
+V0147,P401,9,F,Neurology,10/08/2025,D293,Neurologist,St. Mary Hospital,Los Angeles,4272.1,0.92,Insurance
+V0148,P704,52,F,Cardiology,06/01/2025,D202,Cardiologist,St. Mary Hospital,Los Angeles,9853.01,0.35,Card
+V0149,P969,11,F,Neurology,12/03/2025,D214,Neurologist,Sunrise Health Institute,Chicago,3056.66,0.78,Cash
+V0150,P939,25,F,Gynecology,15/04/2024,D253,Gynecologist,Greenfield Medical Center,Houston,4244.28,0.65,Cash
+V0151,P208,21,M,Pediatrics,16/12/2024,D289,Pediatrician,Sunrise Health Institute,Chicago,289.89,0.31,Card
+V0152,P378,69,M,Oncology,21/10/2024,D242,Oncologist,Greenfield Medical Center,New York,3639.64,0.4,Insurance
+V0153,P412,85,M,Pediatrics,02/09/2024,D239,Pediatrician,Lakeside General Hospital,Los Angeles,9915.91,0.47,Card
+V0154,P651,14,M,Orthopedics,28/05/2025,D225,Orthopedic Surgeon,St. Mary Hospital,Miami,2311.43,0.74,Card
+V0155,P835,5,F,General Medicine,21/12/2024,D236,General Physician,MetroCare Clinic,Los Angeles,9291.38,0.78,Card
+V0156,P883,54,M,Orthopedics,08/05/2024,D211,Orthopedic Surgeon,Greenfield Medical Center,Chicago,5487.4,0.71,Insurance
+V0157,P240,58,M,Cardiology,07/03/2024,D216,Cardiologist,MetroCare Clinic,Houston,8582.65,0.64,Card
+V0158,P147,86,F,General Medicine,31/08/2025,D271,General Physician,St. Mary Hospital,Miami,5204.16,0.81,Insurance
+V0159,P715,80,M,Neurology,30/05/2024,D276,Neurologist,Lakeside General Hospital,Miami,988.4,0.85,Card
+V0160,P496,25,F,Neurology,24/09/2024,D275,Neurologist,Sunrise Health Institute,Chicago,6941.67,0.65,Cash
+V0161,P998,7,F,Dermatology,29/03/2024,D273,Dermatologist,MetroCare Clinic,Houston,3408.24,0.64,Card
+V0162,P511,32,M,Pediatrics,23/05/2024,D275,Pediatrician,MetroCare Clinic,Miami,8862.63,0.35,Card
+V0163,P238,89,F,Oncology,25/04/2024,D212,Oncologist,Greenfield Medical Center,Los Angeles,5674.48,0.9,Insurance
+V0164,P942,24,M,Cardiology,21/11/2024,D261,Cardiologist,Greenfield Medical Center,Miami,2470.01,0.67,Insurance
+V0165,P645,20,M,Neurology,24/01/2025,D208,Neurologist,Lakeside General Hospital,Chicago,9909.22,0.87,Cash
+V0166,P894,26,F,General Medicine,16/08/2025,D294,General Physician,St. Mary Hospital,Miami,7203.93,0.52,Cash
+V0167,P111,85,M,Oncology,09/12/2024,D228,Oncologist,Sunrise Health Institute,New York,3551.32,0.51,Insurance
+V0168,P615,62,F,Pediatrics,14/08/2024,D281,Pediatrician,St. Mary Hospital,Houston,8866.38,0.82,Card
+V0169,P378,65,F,Gynecology,06/09/2024,D289,Gynecologist,Lakeside General Hospital,Los Angeles,8701.81,0.56,Insurance
+V0170,P630,7,F,Orthopedics,07/10/2024,D268,Orthopedic Surgeon,Sunrise Health Institute,Chicago,4079.82,0.52,Cash
+V0171,P105,74,F,Oncology,16/06/2025,D204,Oncologist,Lakeside General Hospital,Chicago,9898.47,0.37,Card
+V0172,P221,19,M,Oncology,24/07/2024,D203,Oncologist,MetroCare Clinic,Chicago,5990.91,0.6,Insurance
+V0173,P248,57,F,Oncology,12/08/2024,D212,Oncologist,St. Mary Hospital,Houston,4759.75,0.65,Insurance
+V0174,P105,82,M,Dermatology,05/05/2025,D227,Dermatologist,St. Mary Hospital,Houston,298.05,0.49,Card
+V0175,P441,57,M,Cardiology,19/02/2024,D297,Cardiologist,Greenfield Medical Center,Los Angeles,4999.76,0.63,Insurance
+V0176,P472,21,M,Neurology,18/07/2024,D239,Neurologist,Lakeside General Hospital,Houston,7969.78,0.66,Cash
+V0177,P424,85,F,Cardiology,09/09/2025,D259,Cardiologist,Greenfield Medical Center,Miami,6618.86,0.76,Cash
+V0178,P607,68,M,Gynecology,28/08/2024,D250,Gynecologist,Sunrise Health Institute,Houston,3915.96,0.59,Insurance
+V0179,P841,45,M,Pediatrics,06/05/2024,D205,Pediatrician,Lakeside General Hospital,Houston,4569.21,0.51,Cash
+V0180,P788,38,M,General Medicine,08/08/2025,D245,General Physician,MetroCare Clinic,New York,8435.55,0.3,Cash
+V0181,P305,73,M,Pediatrics,29/04/2024,D238,Pediatrician,Sunrise Health Institute,Los Angeles,3860.87,0.43,Card
+V0182,P574,23,M,Neurology,22/03/2025,D232,Neurologist,MetroCare Clinic,Chicago,2432.2,0.33,Card
+V0183,P302,11,M,Pediatrics,09/07/2024,D250,Pediatrician,MetroCare Clinic,Los Angeles,6039.61,0.66,Card
+V0184,P244,88,F,Pediatrics,25/02/2024,D224,Pediatrician,Greenfield Medical Center,Chicago,4126.31,0.57,Cash
+V0185,P726,67,F,Neurology,26/05/2024,D216,Neurologist,Sunrise Health Institute,Miami,9126.9,0.59,Cash
+V0186,P419,58,M,Oncology,01/08/2024,D265,Oncologist,St. Mary Hospital,Miami,388.77,0.5,Cash
+V0187,P917,61,M,Oncology,13/11/2024,D204,Oncologist,St. Mary Hospital,Houston,4419.64,0.56,Insurance
+V0188,P707,18,M,Dermatology,16/02/2024,D298,Dermatologist,Lakeside General Hospital,Miami,9070.15,0.56,Insurance
+V0189,P115,19,M,Dermatology,01/09/2025,D278,Dermatologist,Lakeside General Hospital,Los Angeles,1740.91,0.97,Cash
+V0190,P934,77,F,Dermatology,11/03/2024,D288,Dermatologist,MetroCare Clinic,New York,6538.6,0.84,Insurance
+V0191,P643,89,M,General Medicine,04/07/2024,D293,General Physician,St. Mary Hospital,Houston,2456.8,0.3,Card
+V0192,P899,71,M,Cardiology,30/05/2025,D256,Cardiologist,St. Mary Hospital,New York,7695.78,0.52,Card
+V0193,P705,65,M,General Medicine,03/02/2024,D216,General Physician,Sunrise Health Institute,Miami,9225.37,0.61,Card
+V0194,P822,69,F,Neurology,07/08/2025,D254,Neurologist,Lakeside General Hospital,Chicago,5279.9,0.82,Cash
+V0195,P217,8,F,Gynecology,05/06/2025,D211,Gynecologist,MetroCare Clinic,Chicago,2905.34,0.62,Cash
+V0196,P162,12,M,General Medicine,11/06/2024,D297,General Physician,St. Mary Hospital,Miami,5553.54,0.41,Insurance
+V0197,P910,42,M,General Medicine,09/05/2024,D287,General Physician,MetroCare Clinic,Houston,2551.58,0.46,Card
+V0198,P121,29,M,Neurology,08/05/2024,D298,Neurologist,MetroCare Clinic,Miami,8753.59,0.81,Card
+V0199,P157,79,M,General Medicine,12/12/2024,D233,General Physician,St. Mary Hospital,Miami,7675.43,0.98,Cash
+V0200,P560,80,M,Neurology,07/03/2025,D239,Neurologist,Greenfield Medical Center,Los Angeles,6791.33,0.7,Insurance
+V0201,P184,31,F,Orthopedics,31/10/2024,D298,Orthopedic Surgeon,St. Mary Hospital,Houston,4702.51,0.73,Card
+V0202,P722,12,M,Neurology,20/03/2024,D289,Neurologist,Sunrise Health Institute,Chicago,8541.29,0.44,Cash
+V0203,P619,53,M,Pediatrics,24/07/2024,D225,Pediatrician,MetroCare Clinic,Houston,948.17,0.65,Card
+V0204,P597,61,M,Dermatology,24/09/2024,D281,Dermatologist,MetroCare Clinic,Miami,1709.22,0.89,Insurance
+V0205,P507,74,F,Cardiology,16/07/2025,D231,Cardiologist,MetroCare Clinic,Los Angeles,7858.6,0.84,Cash
+V0206,P373,53,F,Oncology,23/02/2025,D246,Oncologist,Greenfield Medical Center,Los Angeles,6905.63,0.75,Insurance
+V0207,P388,1,F,Oncology,01/01/2024,D231,Oncologist,MetroCare Clinic,Chicago,5442.9,0.53,Cash
+V0208,P126,55,F,Dermatology,10/07/2025,D259,Dermatologist,St. Mary Hospital,Chicago,1621.74,0.96,Insurance
+V0209,P420,44,M,Orthopedics,06/04/2024,D290,Orthopedic Surgeon,MetroCare Clinic,Houston,7193.48,0.63,Card
+V0210,P294,45,M,Cardiology,30/01/2025,D264,Cardiologist,St. Mary Hospital,Los Angeles,6440.27,0.54,Insurance
+V0211,P389,62,M,Oncology,10/03/2025,D209,Oncologist,Lakeside General Hospital,Houston,1370.4,0.67,Insurance
+V0212,P841,59,M,Oncology,05/05/2025,D206,Oncologist,Lakeside General Hospital,Houston,791.34,0.61,Insurance
+V0213,P664,69,F,Orthopedics,18/04/2025,D231,Orthopedic Surgeon,Lakeside General Hospital,Los Angeles,9188.65,0.35,Insurance
+V0214,P538,24,M,Orthopedics,25/09/2024,D232,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,7987.57,0.69,Card
+V0215,P175,1,M,Gynecology,28/05/2024,D238,Gynecologist,Greenfield Medical Center,Houston,4262.97,0.39,Cash
+V0216,P231,57,M,Orthopedics,28/04/2025,D236,Orthopedic Surgeon,Greenfield Medical Center,Chicago,2810.73,0.95,Insurance
+V0217,P669,24,M,Oncology,15/01/2025,D247,Oncologist,Lakeside General Hospital,New York,9040.95,0.37,Insurance
+V0218,P502,70,F,General Medicine,24/05/2024,D297,General Physician,Greenfield Medical Center,Houston,4290.05,0.63,Insurance
+V0219,P530,41,F,Cardiology,13/07/2025,D288,Cardiologist,MetroCare Clinic,Miami,4917.71,0.65,Insurance
+V0220,P754,78,M,Orthopedics,23/04/2025,D230,Orthopedic Surgeon,Greenfield Medical Center,New York,4855.81,0.82,Insurance
+V0221,P676,28,M,Cardiology,28/02/2024,D254,Cardiologist,Sunrise Health Institute,Miami,272.31,0.44,Card
+V0222,P933,49,M,Oncology,26/04/2024,D298,Oncologist,Greenfield Medical Center,New York,4036.06,0.68,Card
+V0223,P247,78,F,Gynecology,31/01/2025,D233,Gynecologist,St. Mary Hospital,Miami,5306.95,0.53,Cash
+V0224,P255,72,F,General Medicine,10/04/2025,D278,General Physician,St. Mary Hospital,Houston,1156.53,0.94,Card
+V0225,P437,43,F,Oncology,26/12/2024,D218,Oncologist,Lakeside General Hospital,Chicago,6690.62,0.6,Insurance
+V0226,P162,87,M,Neurology,01/03/2025,D256,Neurologist,Sunrise Health Institute,New York,2114,0.82,Card
+V0227,P517,68,F,Pediatrics,26/07/2025,D230,Pediatrician,St. Mary Hospital,Miami,4013.56,0.56,Insurance
+V0228,P997,19,M,Oncology,15/05/2024,D277,Oncologist,St. Mary Hospital,Houston,2310.96,0.56,Card
+V0229,P504,9,M,Neurology,09/06/2025,D245,Neurologist,Lakeside General Hospital,Miami,6199.26,0.67,Cash
+V0230,P236,3,F,Pediatrics,25/07/2024,D217,Pediatrician,St. Mary Hospital,New York,9732.81,0.93,Cash
+V0231,P472,50,M,Pediatrics,17/06/2024,D210,Pediatrician,Lakeside General Hospital,Los Angeles,1703.92,0.45,Cash
+V0232,P178,51,M,Neurology,25/12/2024,D273,Neurologist,Lakeside General Hospital,New York,8888.66,0.98,Card
+V0233,P963,28,F,Dermatology,19/01/2024,D211,Dermatologist,Greenfield Medical Center,Chicago,3721.16,0.8,Cash
+V0234,P683,66,F,General Medicine,30/05/2025,D221,General Physician,MetroCare Clinic,Chicago,9919.66,0.93,Insurance
+V0235,P878,17,M,Gynecology,14/09/2024,D251,Gynecologist,MetroCare Clinic,Miami,5812.21,0.75,Card
+V0236,P889,17,M,Gynecology,25/02/2025,D212,Gynecologist,Sunrise Health Institute,Miami,4804.99,0.37,Insurance
+V0237,P824,74,M,General Medicine,01/07/2024,D266,General Physician,Lakeside General Hospital,Miami,5069.74,0.46,Insurance
+V0238,P757,35,M,Dermatology,29/12/2024,D279,Dermatologist,St. Mary Hospital,Los Angeles,8907.14,0.65,Cash
+V0239,P102,80,F,Orthopedics,10/12/2024,D293,Orthopedic Surgeon,Sunrise Health Institute,Houston,6609.24,0.97,Insurance
+V0240,P831,27,M,Dermatology,15/04/2024,D235,Dermatologist,Sunrise Health Institute,Miami,7166.2,0.37,Insurance
+V0241,P707,32,F,Orthopedics,01/05/2024,D212,Orthopedic Surgeon,MetroCare Clinic,Chicago,8180.04,0.35,Card
+V0242,P564,51,M,Oncology,31/03/2025,D256,Oncologist,St. Mary Hospital,New York,9121.3,0.68,Cash
+V0243,P249,34,M,Oncology,09/05/2024,D243,Oncologist,MetroCare Clinic,Los Angeles,3331.71,0.82,Insurance
+V0244,P194,48,M,Oncology,10/04/2024,D202,Oncologist,Lakeside General Hospital,Houston,5992.72,0.51,Cash
+V0245,P317,27,F,Dermatology,29/03/2025,D255,Dermatologist,Sunrise Health Institute,Houston,268.86,0.59,Insurance
+V0246,P664,67,F,Orthopedics,23/08/2024,D238,Orthopedic Surgeon,Sunrise Health Institute,New York,3695.9,0.68,Card
+V0247,P448,28,F,Neurology,07/01/2025,D274,Neurologist,Sunrise Health Institute,Los Angeles,7783.97,0.87,Insurance
+V0248,P314,40,F,Dermatology,08/07/2024,D239,Dermatologist,Sunrise Health Institute,Los Angeles,7252.17,0.45,Cash
+V0249,P163,48,M,Orthopedics,31/03/2025,D255,Orthopedic Surgeon,St. Mary Hospital,Miami,8337.77,0.67,Cash
+V0250,P366,73,F,General Medicine,20/05/2024,D250,General Physician,Lakeside General Hospital,New York,486.48,0.68,Card
+V0251,P305,39,F,Pediatrics,24/03/2025,D227,Pediatrician,St. Mary Hospital,Chicago,3733.21,0.56,Card
+V0252,P687,0,M,Gynecology,16/05/2024,D220,Gynecologist,Lakeside General Hospital,Los Angeles,4774.72,0.61,Card
+V0253,P408,11,M,Oncology,30/01/2024,D251,Oncologist,Greenfield Medical Center,Houston,6751.32,0.99,Card
+V0254,P366,85,M,Orthopedics,15/02/2024,D240,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,9558.7,0.91,Card
+V0255,P691,36,M,Cardiology,08/06/2024,D210,Cardiologist,Sunrise Health Institute,New York,2438.89,0.34,Cash
+V0256,P382,43,M,Cardiology,29/07/2025,D260,Cardiologist,St. Mary Hospital,Miami,5714.39,0.92,Cash
+V0257,P728,70,F,Orthopedics,27/08/2025,D247,Orthopedic Surgeon,MetroCare Clinic,Chicago,7169.97,0.4,Card
+V0258,P871,59,F,Neurology,25/06/2024,D290,Neurologist,Greenfield Medical Center,Miami,7257.15,0.68,Card
+V0259,P204,39,M,Gynecology,12/07/2025,D231,Gynecologist,Sunrise Health Institute,Miami,3979.23,0.59,Insurance
+V0260,P248,82,F,Oncology,03/02/2025,D274,Oncologist,Sunrise Health Institute,Houston,9709.93,0.59,Card
+V0261,P267,25,M,General Medicine,18/10/2024,D281,General Physician,Lakeside General Hospital,New York,905.15,0.89,Cash
+V0262,P673,5,F,Neurology,30/07/2024,D231,Neurologist,Greenfield Medical Center,Miami,6123.45,0.93,Card
+V0263,P435,13,F,Pediatrics,16/07/2024,D294,Pediatrician,St. Mary Hospital,Miami,182.51,0.76,Insurance
+V0264,P552,71,M,Cardiology,04/07/2024,D288,Cardiologist,Sunrise Health Institute,Miami,1857.13,0.97,Insurance
+V0265,P848,40,M,Neurology,02/08/2024,D224,Neurologist,Lakeside General Hospital,Houston,1724.8,0.67,Cash
+V0266,P807,78,F,Gynecology,14/02/2025,D278,Gynecologist,Greenfield Medical Center,Houston,211.01,0.65,Insurance
+V0267,P778,62,F,Neurology,19/06/2024,D277,Neurologist,Greenfield Medical Center,New York,7687.32,0.4,Cash
+V0268,P336,60,M,Dermatology,29/03/2025,D245,Dermatologist,MetroCare Clinic,Houston,5031.61,0.77,Card
+V0269,P717,7,M,General Medicine,04/09/2025,D244,General Physician,Greenfield Medical Center,New York,1581.68,0.88,Insurance
+V0270,P484,14,F,Neurology,12/04/2024,D217,Neurologist,Greenfield Medical Center,Los Angeles,9115.01,0.86,Card
+V0271,P851,16,M,General Medicine,20/04/2025,D223,General Physician,Sunrise Health Institute,Houston,3236.14,0.5,Card
+V0272,P511,75,M,Dermatology,24/01/2025,D238,Dermatologist,MetroCare Clinic,Miami,4762.38,0.7,Insurance
+V0273,P916,81,M,Oncology,14/05/2025,D290,Oncologist,MetroCare Clinic,Houston,7657.69,0.67,Card
+V0274,P199,46,M,General Medicine,20/06/2024,D204,General Physician,St. Mary Hospital,Los Angeles,9479.48,0.85,Card
+V0275,P877,11,M,Neurology,06/05/2025,D281,Neurologist,Lakeside General Hospital,Chicago,1263.24,0.39,Cash
+V0276,P531,72,F,Gynecology,22/10/2024,D231,Gynecologist,Sunrise Health Institute,New York,3910.68,0.63,Insurance
+V0277,P442,71,M,Neurology,22/07/2024,D264,Neurologist,Lakeside General Hospital,Miami,9646.38,0.78,Cash
+V0278,P454,5,F,Pediatrics,10/01/2024,D245,Pediatrician,St. Mary Hospital,New York,6566.28,0.43,Cash
+V0279,P109,34,F,General Medicine,20/04/2024,D278,General Physician,Greenfield Medical Center,Houston,5880.61,0.93,Card
+V0280,P366,10,M,Oncology,13/03/2024,D297,Oncologist,Sunrise Health Institute,New York,4237.08,0.95,Cash
+V0281,P701,89,F,Neurology,15/05/2025,D242,Neurologist,Lakeside General Hospital,Houston,1293.36,0.5,Insurance
+V0282,P110,20,F,Neurology,19/02/2025,D260,Neurologist,Lakeside General Hospital,Los Angeles,1324.23,0.35,Insurance
+V0283,P608,34,F,Oncology,07/02/2025,D267,Oncologist,St. Mary Hospital,New York,3311.99,0.83,Card
+V0284,P252,56,M,Dermatology,19/09/2024,D255,Dermatologist,MetroCare Clinic,Houston,145.53,0.98,Insurance
+V0285,P531,74,F,Gynecology,01/07/2024,D219,Gynecologist,MetroCare Clinic,New York,1702.87,0.43,Insurance
+V0286,P284,64,M,General Medicine,26/02/2025,D294,General Physician,St. Mary Hospital,New York,1467.26,0.54,Card
+V0287,P624,42,M,Dermatology,24/08/2025,D244,Dermatologist,Greenfield Medical Center,Houston,3456.66,0.46,Insurance
+V0288,P143,71,F,General Medicine,20/07/2025,D222,General Physician,Lakeside General Hospital,Chicago,3252.63,0.43,Cash
+V0289,P236,67,F,General Medicine,06/01/2024,D259,General Physician,Greenfield Medical Center,Houston,6690.32,0.58,Insurance
+V0290,P349,89,F,Oncology,16/07/2025,D253,Oncologist,St. Mary Hospital,Miami,420.89,0.84,Insurance
+V0291,P740,76,F,Neurology,18/01/2025,D206,Neurologist,Sunrise Health Institute,Houston,5492.68,0.59,Insurance
+V0292,P167,49,F,Orthopedics,14/09/2025,D271,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,271.72,0.83,Cash
+V0293,P428,32,M,Dermatology,10/08/2024,D238,Dermatologist,MetroCare Clinic,New York,1099.16,0.65,Cash
+V0294,P203,28,F,Neurology,21/08/2025,D267,Neurologist,Lakeside General Hospital,Los Angeles,6145.53,0.76,Insurance
+V0295,P997,42,M,Cardiology,19/11/2024,D271,Cardiologist,MetroCare Clinic,Chicago,8482.81,0.87,Cash
+V0296,P107,43,F,Oncology,25/12/2024,D275,Oncologist,MetroCare Clinic,Chicago,7502.55,0.51,Card
+V0297,P665,67,M,Pediatrics,17/08/2025,D271,Pediatrician,St. Mary Hospital,New York,7078.63,0.57,Insurance
+V0298,P270,50,M,Neurology,03/10/2024,D226,Neurologist,MetroCare Clinic,New York,689.18,0.99,Card
+V0299,P563,8,F,Pediatrics,01/05/2024,D206,Pediatrician,Lakeside General Hospital,New York,1638.64,0.45,Cash
+V0300,P370,58,M,Pediatrics,26/12/2024,D212,Pediatrician,Lakeside General Hospital,Miami,684.83,0.51,Insurance
+V0301,P432,49,F,General Medicine,08/03/2025,D218,General Physician,Greenfield Medical Center,Houston,8645.97,0.45,Cash
+V0302,P565,76,F,Gynecology,21/02/2025,D278,Gynecologist,MetroCare Clinic,Los Angeles,1344.61,0.98,Cash
+V0303,P246,20,M,General Medicine,08/06/2025,D266,General Physician,MetroCare Clinic,Chicago,8327.33,0.43,Card
+V0304,P373,2,M,Dermatology,30/12/2024,D245,Dermatologist,Lakeside General Hospital,Houston,7507.14,0.4,Cash
+V0305,P707,50,F,Dermatology,23/07/2024,D232,Dermatologist,Lakeside General Hospital,Miami,5239.38,0.86,Cash
+V0306,P348,11,F,Neurology,09/08/2024,D263,Neurologist,Lakeside General Hospital,New York,4029.01,0.79,Card
+V0307,P311,62,M,Pediatrics,25/04/2024,D215,Pediatrician,Greenfield Medical Center,Los Angeles,4470.5,0.38,Insurance
+V0308,P784,51,M,Orthopedics,29/02/2024,D279,Orthopedic Surgeon,MetroCare Clinic,Miami,6798.54,0.98,Insurance
+V0309,P189,63,M,Cardiology,05/06/2024,D206,Cardiologist,Greenfield Medical Center,Los Angeles,4244.34,0.31,Insurance
+V0310,P980,17,M,General Medicine,20/07/2025,D206,General Physician,St. Mary Hospital,Miami,3610.8,0.38,Card
+V0311,P375,22,F,Orthopedics,01/05/2024,D296,Orthopedic Surgeon,Lakeside General Hospital,Chicago,7824.98,0.96,Card
+V0312,P439,43,F,Gynecology,04/11/2024,D294,Gynecologist,Sunrise Health Institute,Miami,143.78,0.39,Insurance
+V0313,P783,29,M,Gynecology,07/05/2025,D201,Gynecologist,Greenfield Medical Center,Chicago,8359.71,0.78,Card
+V0314,P874,0,M,Dermatology,12/09/2024,D277,Dermatologist,Greenfield Medical Center,Los Angeles,7928.04,0.64,Cash
+V0315,P911,44,M,Dermatology,30/12/2024,D212,Dermatologist,St. Mary Hospital,Chicago,5471.46,0.46,Card
+V0316,P810,78,M,Oncology,04/12/2024,D262,Oncologist,Greenfield Medical Center,Houston,1455.55,0.68,Insurance
+V0317,P979,52,F,Pediatrics,26/03/2025,D229,Pediatrician,Sunrise Health Institute,Los Angeles,603.98,0.64,Cash
+V0318,P470,45,M,Gynecology,09/04/2025,D222,Gynecologist,Sunrise Health Institute,Houston,6749.93,0.76,Insurance
+V0319,P796,44,F,Oncology,24/06/2025,D204,Oncologist,MetroCare Clinic,Houston,7691.01,0.35,Cash
+V0320,P509,25,F,Gynecology,02/07/2025,D234,Gynecologist,MetroCare Clinic,Miami,5385.14,0.75,Cash
+V0321,P843,39,M,General Medicine,25/11/2024,D203,General Physician,St. Mary Hospital,Los Angeles,289.42,0.66,Card
+V0322,P188,48,F,Gynecology,07/04/2025,D294,Gynecologist,St. Mary Hospital,Houston,7612.85,0.65,Insurance
+V0323,P170,31,M,Dermatology,06/06/2025,D240,Dermatologist,Greenfield Medical Center,New York,5352.24,0.8,Insurance
+V0324,P640,71,M,Gynecology,13/01/2024,D227,Gynecologist,Greenfield Medical Center,Miami,5780.57,0.63,Card
+V0325,P769,75,F,Cardiology,13/06/2025,D262,Cardiologist,Lakeside General Hospital,Los Angeles,6570.32,0.84,Card
+V0326,P185,85,M,Orthopedics,03/09/2025,D225,Orthopedic Surgeon,Lakeside General Hospital,New York,9595.69,0.44,Cash
+V0327,P819,63,F,Orthopedics,26/08/2025,D293,Orthopedic Surgeon,Sunrise Health Institute,Houston,9947.54,0.71,Cash
+V0328,P665,11,M,General Medicine,28/03/2024,D231,General Physician,Lakeside General Hospital,Chicago,6412.68,0.47,Cash
+V0329,P767,16,M,Orthopedics,27/02/2024,D235,Orthopedic Surgeon,Lakeside General Hospital,Chicago,6286.95,0.56,Cash
+V0330,P475,22,F,Cardiology,14/01/2025,D233,Cardiologist,St. Mary Hospital,Miami,433.68,0.46,Cash
+V0331,P143,62,F,Oncology,24/11/2024,D210,Oncologist,Sunrise Health Institute,New York,7398.94,0.31,Card
+V0332,P693,75,M,Orthopedics,16/03/2025,D228,Orthopedic Surgeon,Lakeside General Hospital,Houston,8940.61,0.35,Cash
+V0333,P585,87,M,Pediatrics,19/06/2025,D281,Pediatrician,Greenfield Medical Center,Los Angeles,4261.7,0.35,Card
+V0334,P105,59,M,Neurology,14/02/2025,D246,Neurologist,MetroCare Clinic,Houston,3030.92,0.36,Insurance
+V0335,P665,7,F,Oncology,26/08/2025,D251,Oncologist,Greenfield Medical Center,New York,305.38,0.53,Insurance
+V0336,P951,61,M,Gynecology,13/11/2024,D287,Gynecologist,Sunrise Health Institute,Miami,9192.06,0.98,Card
+V0337,P466,63,M,Cardiology,25/09/2024,D222,Cardiologist,MetroCare Clinic,Miami,2752.16,0.85,Card
+V0338,P243,64,M,Cardiology,27/10/2024,D295,Cardiologist,St. Mary Hospital,New York,4411.17,0.33,Cash
+V0339,P126,2,M,Pediatrics,13/05/2025,D208,Pediatrician,Lakeside General Hospital,New York,7121.48,0.99,Card
+V0340,P234,54,F,Oncology,18/01/2025,D238,Oncologist,St. Mary Hospital,Los Angeles,9906.75,0.87,Card
+V0341,P851,89,M,Gynecology,30/07/2025,D221,Gynecologist,Sunrise Health Institute,New York,1243.33,0.85,Card
+V0342,P844,58,M,Neurology,26/09/2025,D205,Neurologist,St. Mary Hospital,Los Angeles,4365.64,0.52,Card
+V0343,P740,81,M,Orthopedics,16/06/2024,D275,Orthopedic Surgeon,MetroCare Clinic,Miami,7685.23,0.74,Insurance
+V0344,P158,23,F,Neurology,23/02/2025,D229,Neurologist,Lakeside General Hospital,New York,1016.88,0.53,Card
+V0345,P132,12,F,Neurology,09/03/2025,D223,Neurologist,MetroCare Clinic,Houston,6586.68,0.89,Card
+V0346,P895,86,F,Cardiology,20/08/2025,D231,Cardiologist,Lakeside General Hospital,Houston,1461.71,0.39,Cash
+V0347,P763,11,M,Dermatology,23/04/2025,D229,Dermatologist,Greenfield Medical Center,Chicago,606.17,0.96,Cash
+V0348,P524,82,F,Orthopedics,18/07/2024,D206,Orthopedic Surgeon,Greenfield Medical Center,Chicago,8068.07,0.7,Card
+V0349,P657,49,F,Cardiology,13/07/2025,D220,Cardiologist,Lakeside General Hospital,Miami,2830.31,0.68,Insurance
+V0350,P955,63,M,Neurology,03/10/2024,D225,Neurologist,Lakeside General Hospital,Houston,2235.21,0.32,Cash
+V0351,P730,77,M,Pediatrics,05/09/2024,D273,Pediatrician,St. Mary Hospital,Houston,7982.42,0.98,Card
+V0352,P437,22,M,Orthopedics,15/01/2025,D233,Orthopedic Surgeon,Greenfield Medical Center,Chicago,4781.08,0.96,Card
+V0353,P664,30,M,Oncology,14/05/2024,D215,Oncologist,St. Mary Hospital,New York,5786.38,0.68,Cash
+V0354,P252,37,M,General Medicine,25/07/2024,D267,General Physician,Sunrise Health Institute,Houston,3538.94,0.4,Cash
+V0355,P208,61,F,Oncology,21/03/2025,D269,Oncologist,Sunrise Health Institute,Los Angeles,9081.76,0.76,Insurance
+V0356,P106,81,F,Gynecology,10/05/2025,D220,Gynecologist,Greenfield Medical Center,New York,8594.87,0.37,Insurance
+V0357,P118,17,F,Neurology,08/01/2024,D263,Neurologist,St. Mary Hospital,Chicago,1364.51,0.57,Insurance
+V0358,P700,71,M,Oncology,03/05/2024,D247,Oncologist,St. Mary Hospital,Chicago,3671.87,0.79,Card
+V0359,P912,1,F,General Medicine,24/12/2024,D253,General Physician,Lakeside General Hospital,Miami,6788.29,0.88,Card
+V0360,P170,67,F,Orthopedics,16/08/2024,D241,Orthopedic Surgeon,St. Mary Hospital,New York,6019.81,0.91,Card
+V0361,P460,84,F,Neurology,08/08/2024,D240,Neurologist,Sunrise Health Institute,Miami,5283.33,0.37,Cash
+V0362,P396,2,F,Orthopedics,29/10/2024,D260,Orthopedic Surgeon,Greenfield Medical Center,Houston,1740.82,0.43,Cash
+V0363,P758,4,M,General Medicine,05/07/2024,D276,General Physician,Sunrise Health Institute,New York,2218.19,0.92,Insurance
+V0364,P941,81,F,Neurology,05/01/2025,D231,Neurologist,Greenfield Medical Center,New York,998.28,0.62,Cash
+V0365,P268,5,M,Cardiology,07/08/2025,D201,Cardiologist,St. Mary Hospital,Houston,2127.57,0.5,Card
+V0366,P569,52,M,Orthopedics,01/04/2024,D253,Orthopedic Surgeon,St. Mary Hospital,New York,5250.51,0.8,Insurance
+V0367,P137,76,F,Pediatrics,24/05/2025,D219,Pediatrician,St. Mary Hospital,Miami,5689.89,0.34,Insurance
+V0368,P985,89,F,Oncology,29/01/2024,D261,Oncologist,Greenfield Medical Center,Houston,6229.05,0.65,Insurance
+V0369,P372,81,F,Dermatology,09/06/2024,D287,Dermatologist,Sunrise Health Institute,Miami,8703.15,0.52,Cash
+V0370,P282,41,F,General Medicine,03/02/2024,D215,General Physician,MetroCare Clinic,New York,7618.78,0.89,Card
+V0371,P370,70,M,Gynecology,11/09/2024,D206,Gynecologist,Lakeside General Hospital,Houston,9222.53,0.53,Card
+V0372,P559,5,M,Pediatrics,29/06/2025,D218,Pediatrician,Lakeside General Hospital,Miami,9999.1,0.73,Cash
+V0373,P187,66,M,Pediatrics,15/03/2024,D292,Pediatrician,Greenfield Medical Center,Los Angeles,1157.11,0.59,Card
+V0374,P956,37,M,Oncology,01/01/2024,D268,Oncologist,St. Mary Hospital,New York,3841.96,0.84,Cash
+V0375,P667,18,F,Pediatrics,09/04/2024,D277,Pediatrician,St. Mary Hospital,Miami,3696.22,0.33,Insurance
+V0376,P536,35,M,Oncology,20/08/2024,D218,Oncologist,Sunrise Health Institute,New York,6124.91,0.66,Card
+V0377,P862,43,F,Cardiology,09/09/2024,D244,Cardiologist,Sunrise Health Institute,New York,6598.16,0.83,Cash
+V0378,P648,29,M,Dermatology,05/08/2025,D258,Dermatologist,Lakeside General Hospital,Miami,2473.29,0.88,Cash
+V0379,P549,73,F,Neurology,16/12/2024,D269,Neurologist,Lakeside General Hospital,Los Angeles,3961.29,0.74,Insurance
+V0380,P643,12,M,General Medicine,05/10/2024,D261,General Physician,Lakeside General Hospital,New York,121.01,0.5,Cash
+V0381,P946,35,F,Neurology,11/02/2024,D286,Neurologist,MetroCare Clinic,Los Angeles,3572.95,0.34,Card
+V0382,P206,89,F,Pediatrics,25/02/2025,D297,Pediatrician,St. Mary Hospital,Houston,2487.06,0.81,Cash
+V0383,P353,14,F,Oncology,11/10/2024,D275,Oncologist,Sunrise Health Institute,Chicago,8707.88,0.93,Card
+V0384,P496,80,F,Oncology,11/08/2024,D243,Oncologist,Lakeside General Hospital,Chicago,715.53,0.39,Card
+V0385,P397,78,F,Orthopedics,08/12/2024,D240,Orthopedic Surgeon,St. Mary Hospital,Miami,3216.11,0.48,Insurance
+V0386,P937,4,M,Neurology,22/04/2025,D232,Neurologist,Lakeside General Hospital,Miami,4444.72,0.87,Card
+V0387,P394,9,F,Orthopedics,21/02/2025,D244,Orthopedic Surgeon,Greenfield Medical Center,Houston,1991.04,0.3,Cash
+V0388,P261,72,F,Oncology,31/03/2024,D200,Oncologist,MetroCare Clinic,Miami,754.32,0.4,Insurance
+V0389,P731,55,F,Neurology,07/01/2025,D229,Neurologist,MetroCare Clinic,New York,8111.33,0.52,Card
+V0390,P842,58,M,General Medicine,16/11/2024,D288,General Physician,MetroCare Clinic,Houston,7016.88,0.54,Insurance
+V0391,P849,15,M,Dermatology,24/12/2024,D235,Dermatologist,Lakeside General Hospital,Houston,227.49,0.39,Cash
+V0392,P945,34,M,General Medicine,26/11/2024,D228,General Physician,Greenfield Medical Center,Miami,555.35,0.42,Insurance
+V0393,P274,24,F,Orthopedics,01/07/2024,D209,Orthopedic Surgeon,MetroCare Clinic,New York,209.21,0.37,Card
+V0394,P666,6,F,Neurology,04/07/2024,D283,Neurologist,St. Mary Hospital,Miami,8243.65,0.41,Card
+V0395,P551,75,M,Pediatrics,30/05/2025,D241,Pediatrician,St. Mary Hospital,Los Angeles,9878.96,0.68,Cash
+V0396,P552,18,F,Dermatology,23/10/2024,D214,Dermatologist,Sunrise Health Institute,Houston,189.27,0.68,Cash
+V0397,P879,71,M,Orthopedics,06/08/2025,D255,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,6852.98,0.36,Cash
+V0398,P241,32,F,Gynecology,17/12/2024,D285,Gynecologist,Sunrise Health Institute,Miami,6085.73,0.84,Insurance
+V0399,P169,9,M,Neurology,02/01/2024,D255,Neurologist,Lakeside General Hospital,Houston,830.99,0.94,Cash
+V0400,P267,80,F,Oncology,30/04/2024,D278,Oncologist,MetroCare Clinic,Los Angeles,9615.16,0.52,Cash
+V0401,P334,26,F,Neurology,07/03/2025,D216,Neurologist,Greenfield Medical Center,Chicago,5601.89,0.54,Cash
+V0402,P914,4,F,Oncology,16/10/2024,D244,Oncologist,St. Mary Hospital,Chicago,8774.57,0.69,Cash
+V0403,P752,75,F,General Medicine,03/07/2025,D200,General Physician,MetroCare Clinic,Miami,829.22,0.54,Cash
+V0404,P840,61,M,Oncology,12/04/2024,D220,Oncologist,St. Mary Hospital,Houston,8461.87,0.89,Insurance
+V0405,P403,68,F,Neurology,21/11/2024,D227,Neurologist,MetroCare Clinic,Houston,261.14,0.83,Cash
+V0406,P241,14,F,Neurology,12/07/2024,D218,Neurologist,Lakeside General Hospital,Miami,6836.92,0.76,Card
+V0407,P491,65,M,Dermatology,13/04/2025,D202,Dermatologist,Lakeside General Hospital,Houston,7418.03,0.77,Card
+V0408,P101,65,F,Pediatrics,18/09/2024,D235,Pediatrician,Sunrise Health Institute,Houston,4186.9,0.78,Card
+V0409,P718,42,F,Cardiology,23/07/2025,D215,Cardiologist,MetroCare Clinic,Los Angeles,4961.65,0.89,Card
+V0410,P758,2,F,Neurology,23/08/2024,D204,Neurologist,MetroCare Clinic,Los Angeles,5982.14,0.62,Cash
+V0411,P583,33,M,Orthopedics,15/01/2024,D251,Orthopedic Surgeon,Sunrise Health Institute,Miami,8608.47,0.79,Insurance
+V0412,P729,38,F,Oncology,21/08/2024,D286,Oncologist,Greenfield Medical Center,Houston,6521.58,0.44,Cash
+V0413,P489,16,M,Pediatrics,30/06/2024,D207,Pediatrician,Greenfield Medical Center,Houston,5248.7,0.96,Insurance
+V0414,P566,42,F,General Medicine,04/05/2024,D262,General Physician,Sunrise Health Institute,Miami,4013.39,0.93,Insurance
+V0415,P758,43,M,Pediatrics,29/07/2025,D207,Pediatrician,St. Mary Hospital,Chicago,269.15,0.52,Cash
+V0416,P498,86,M,Gynecology,25/10/2024,D255,Gynecologist,St. Mary Hospital,Los Angeles,9180.65,0.37,Card
+V0417,P983,51,F,Neurology,10/05/2025,D211,Neurologist,St. Mary Hospital,New York,8770.38,0.84,Insurance
+V0418,P550,29,M,Cardiology,06/01/2025,D235,Cardiologist,Lakeside General Hospital,Houston,9077.21,0.46,Cash
+V0419,P929,10,F,Dermatology,03/04/2024,D291,Dermatologist,Lakeside General Hospital,Los Angeles,8296.04,0.58,Card
+V0420,P329,65,F,Gynecology,03/11/2024,D237,Gynecologist,St. Mary Hospital,Los Angeles,7536.27,0.46,Card
+V0421,P752,35,F,Oncology,31/03/2024,D269,Oncologist,Greenfield Medical Center,Houston,9743.35,0.56,Cash
+V0422,P234,39,M,Pediatrics,02/05/2025,D244,Pediatrician,Sunrise Health Institute,Chicago,7169.3,0.58,Insurance
+V0423,P782,6,F,Gynecology,29/03/2024,D247,Gynecologist,St. Mary Hospital,New York,4490.68,0.71,Insurance
+V0424,P242,61,F,Oncology,24/09/2025,D296,Oncologist,Greenfield Medical Center,Los Angeles,4556.55,0.89,Cash
+V0425,P856,71,M,Cardiology,17/06/2024,D213,Cardiologist,Greenfield Medical Center,Houston,9405.7,0.64,Card
+V0426,P891,74,F,General Medicine,20/01/2025,D218,General Physician,Lakeside General Hospital,Miami,9838.52,0.67,Card
+V0427,P354,65,M,Oncology,28/09/2024,D201,Oncologist,Lakeside General Hospital,Miami,6891.51,0.48,Insurance
+V0428,P559,5,F,Gynecology,26/12/2024,D262,Gynecologist,Greenfield Medical Center,New York,5825.16,0.99,Cash
+V0429,P628,13,F,Gynecology,23/07/2025,D283,Gynecologist,MetroCare Clinic,New York,6878.24,0.89,Insurance
+V0430,P493,34,M,Orthopedics,29/09/2025,D213,Orthopedic Surgeon,MetroCare Clinic,Miami,4715.16,0.34,Card
+V0431,P604,77,M,Pediatrics,12/09/2024,D215,Pediatrician,Sunrise Health Institute,Houston,8274.91,0.38,Cash
+V0432,P644,76,M,Oncology,23/01/2024,D226,Oncologist,St. Mary Hospital,Miami,2302.51,0.97,Cash
+V0433,P457,8,M,Oncology,19/02/2024,D207,Oncologist,Sunrise Health Institute,Chicago,8277.17,0.8,Cash
+V0434,P741,68,M,Neurology,19/01/2025,D261,Neurologist,MetroCare Clinic,Los Angeles,2669.69,0.79,Cash
+V0435,P132,64,M,Pediatrics,12/06/2024,D209,Pediatrician,Lakeside General Hospital,Miami,5615.05,0.84,Insurance
+V0436,P993,28,F,Gynecology,27/02/2025,D228,Gynecologist,St. Mary Hospital,Miami,2589.95,0.78,Insurance
+V0437,P259,54,F,Pediatrics,20/02/2024,D208,Pediatrician,Greenfield Medical Center,Miami,5798.26,0.43,Insurance
+V0438,P911,24,M,Pediatrics,06/05/2025,D282,Pediatrician,Sunrise Health Institute,Los Angeles,6704.74,0.93,Card
+V0439,P255,18,M,Oncology,18/09/2024,D246,Oncologist,Lakeside General Hospital,Chicago,2268.22,0.82,Insurance
+V0440,P200,59,F,General Medicine,26/06/2024,D204,General Physician,Lakeside General Hospital,Houston,6263.63,0.69,Card
+V0441,P834,63,F,Cardiology,12/05/2024,D294,Cardiologist,MetroCare Clinic,Miami,4536.79,0.33,Cash
+V0442,P896,87,F,Pediatrics,11/07/2025,D213,Pediatrician,MetroCare Clinic,Los Angeles,5018.3,0.49,Cash
+V0443,P121,3,M,General Medicine,14/02/2024,D217,General Physician,MetroCare Clinic,New York,8112.79,0.72,Cash
+V0444,P593,32,M,Neurology,04/05/2024,D256,Neurologist,Greenfield Medical Center,New York,4374.66,0.8,Insurance
+V0445,P578,58,M,Oncology,09/02/2025,D294,Oncologist,MetroCare Clinic,Los Angeles,3596.29,0.93,Insurance
+V0446,P314,61,F,Gynecology,17/07/2024,D229,Gynecologist,Sunrise Health Institute,Los Angeles,335.02,0.5,Card
+V0447,P387,8,M,General Medicine,03/10/2024,D283,General Physician,Greenfield Medical Center,New York,1552.65,0.77,Insurance
+V0448,P373,22,F,Cardiology,05/05/2024,D207,Cardiologist,Sunrise Health Institute,New York,5699.84,0.85,Insurance
+V0449,P236,25,M,Cardiology,21/08/2025,D286,Cardiologist,Sunrise Health Institute,New York,2191.24,0.58,Insurance
+V0450,P587,34,F,Cardiology,08/04/2025,D219,Cardiologist,Lakeside General Hospital,Houston,513.27,0.67,Cash
+V0451,P515,55,M,Cardiology,27/04/2024,D228,Cardiologist,Lakeside General Hospital,New York,5098.41,0.96,Card
+V0452,P323,66,F,Orthopedics,24/08/2024,D218,Orthopedic Surgeon,Sunrise Health Institute,Houston,5027.71,0.94,Insurance
+V0453,P744,51,F,Oncology,30/03/2025,D237,Oncologist,St. Mary Hospital,New York,3020.67,0.69,Cash
+V0454,P557,40,M,Orthopedics,27/10/2024,D221,Orthopedic Surgeon,MetroCare Clinic,Miami,9006.2,0.94,Cash
+V0455,P552,88,F,General Medicine,01/04/2025,D261,General Physician,MetroCare Clinic,Houston,2391.97,0.69,Insurance
+V0456,P626,32,F,Pediatrics,21/07/2025,D271,Pediatrician,Greenfield Medical Center,Chicago,2911.85,0.78,Insurance
+V0457,P977,24,F,Cardiology,05/11/2024,D207,Cardiologist,Sunrise Health Institute,Los Angeles,8206.52,1,Cash
+V0458,P995,69,M,Gynecology,10/06/2025,D296,Gynecologist,MetroCare Clinic,Miami,844.53,0.85,Insurance
+V0459,P427,50,F,General Medicine,17/05/2025,D218,General Physician,Sunrise Health Institute,Los Angeles,6980.62,0.36,Insurance
+V0460,P414,30,F,Orthopedics,30/04/2025,D275,Orthopedic Surgeon,Lakeside General Hospital,Los Angeles,8967.77,0.8,Card
+V0461,P343,82,M,Pediatrics,02/06/2025,D245,Pediatrician,Greenfield Medical Center,Miami,5262.55,0.34,Card
+V0462,P984,10,F,Neurology,26/06/2025,D246,Neurologist,St. Mary Hospital,Houston,4163.12,0.5,Insurance
+V0463,P942,25,F,Neurology,16/01/2025,D283,Neurologist,Lakeside General Hospital,Chicago,7450.4,0.8,Insurance
+V0464,P533,4,M,Pediatrics,07/02/2024,D208,Pediatrician,Sunrise Health Institute,Houston,5963.54,0.47,Card
+V0465,P798,16,M,Dermatology,12/10/2024,D240,Dermatologist,Lakeside General Hospital,Houston,1040.13,0.97,Card
+V0466,P620,31,M,Cardiology,27/04/2025,D219,Cardiologist,St. Mary Hospital,New York,2251.2,0.41,Insurance
+V0467,P187,48,M,Oncology,12/07/2024,D276,Oncologist,Sunrise Health Institute,Chicago,2748.43,0.48,Insurance
+V0468,P322,32,M,Pediatrics,05/08/2025,D295,Pediatrician,Lakeside General Hospital,Chicago,5763.96,0.95,Cash
+V0469,P423,10,M,Orthopedics,22/01/2025,D286,Orthopedic Surgeon,Sunrise Health Institute,New York,3959.9,0.89,Card
+V0470,P737,5,M,Orthopedics,27/06/2025,D232,Orthopedic Surgeon,St. Mary Hospital,Miami,5816.09,0.68,Card
+V0471,P181,52,F,Pediatrics,16/03/2025,D209,Pediatrician,MetroCare Clinic,Los Angeles,3366.01,0.79,Card
+V0472,P391,25,F,Orthopedics,01/10/2024,D233,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,3982.73,0.95,Cash
+V0473,P359,77,F,Oncology,27/11/2024,D233,Oncologist,Greenfield Medical Center,Houston,6933.73,0.76,Card
+V0474,P949,52,M,Cardiology,17/03/2025,D220,Cardiologist,Sunrise Health Institute,Miami,1449.64,0.74,Cash
+V0475,P327,32,F,Oncology,17/09/2025,D275,Oncologist,St. Mary Hospital,New York,8453.18,0.88,Card
+V0476,P939,50,M,Oncology,16/02/2024,D203,Oncologist,MetroCare Clinic,Chicago,3374.79,0.62,Cash
+V0477,P742,46,F,Neurology,01/08/2024,D235,Neurologist,St. Mary Hospital,New York,165.13,0.83,Insurance
+V0478,P330,78,M,General Medicine,22/05/2025,D260,General Physician,Lakeside General Hospital,Chicago,6475.74,0.37,Card
+V0479,P859,48,F,Orthopedics,22/09/2025,D212,Orthopedic Surgeon,St. Mary Hospital,Chicago,7269.16,0.32,Card
+V0480,P523,21,M,Neurology,10/07/2025,D278,Neurologist,MetroCare Clinic,Los Angeles,6284.14,0.61,Insurance
+V0481,P957,59,F,Cardiology,11/02/2025,D210,Cardiologist,MetroCare Clinic,Chicago,6926.44,0.98,Cash
+V0482,P754,79,M,Oncology,25/03/2025,D234,Oncologist,Sunrise Health Institute,Chicago,6025.23,0.32,Card
+V0483,P173,77,M,Dermatology,28/02/2024,D284,Dermatologist,MetroCare Clinic,New York,6868.2,0.89,Card
+V0484,P358,10,M,General Medicine,31/07/2025,D253,General Physician,St. Mary Hospital,Miami,1789.35,0.98,Insurance
+V0485,P679,68,M,Pediatrics,05/02/2025,D200,Pediatrician,Lakeside General Hospital,New York,4486.48,0.98,Cash
+V0486,P922,59,F,Neurology,04/10/2024,D275,Neurologist,Greenfield Medical Center,Chicago,8542.12,0.53,Card
+V0487,P536,41,M,Dermatology,10/07/2024,D291,Dermatologist,MetroCare Clinic,Chicago,6481.97,0.8,Card
+V0488,P505,66,F,Orthopedics,14/02/2025,D231,Orthopedic Surgeon,MetroCare Clinic,Miami,2970.71,0.66,Cash
+V0489,P721,64,F,Gynecology,09/04/2025,D215,Gynecologist,Greenfield Medical Center,Houston,5174.23,0.4,Insurance
+V0490,P931,30,F,Neurology,28/01/2025,D250,Neurologist,Greenfield Medical Center,Chicago,5706.47,0.83,Insurance
+V0491,P632,87,M,Orthopedics,19/12/2024,D275,Orthopedic Surgeon,St. Mary Hospital,Chicago,7429.95,0.71,Cash
+V0492,P453,61,F,Cardiology,09/07/2024,D238,Cardiologist,Lakeside General Hospital,Los Angeles,2591.38,0.89,Insurance
+V0493,P566,79,M,Pediatrics,16/09/2024,D295,Pediatrician,Lakeside General Hospital,New York,9515.17,0.97,Card
+V0494,P692,30,M,Orthopedics,01/11/2024,D227,Orthopedic Surgeon,MetroCare Clinic,New York,775.94,0.76,Cash
+V0495,P208,14,F,General Medicine,10/01/2024,D251,General Physician,Sunrise Health Institute,Houston,1370.99,0.87,Cash
+V0496,P258,80,F,Pediatrics,24/03/2025,D210,Pediatrician,Sunrise Health Institute,Miami,342.64,0.72,Insurance
+V0497,P422,85,F,General Medicine,05/11/2024,D236,General Physician,Lakeside General Hospital,New York,3823.5,0.57,Card
+V0498,P204,50,F,Oncology,01/02/2025,D208,Oncologist,Lakeside General Hospital,Los Angeles,4397.43,0.68,Card
+V0499,P337,14,F,General Medicine,05/07/2025,D234,General Physician,MetroCare Clinic,Houston,1728.87,0.64,Card
+V0500,P337,31,M,Neurology,10/06/2024,D239,Neurologist,Greenfield Medical Center,Houston,8176.07,0.53,Cash
+V0501,P712,79,F,Orthopedics,16/01/2025,D271,Orthopedic Surgeon,St. Mary Hospital,Chicago,4054.73,0.89,Card
+V0502,P381,69,M,Dermatology,25/02/2024,D227,Dermatologist,MetroCare Clinic,Los Angeles,8916.68,0.54,Insurance
+V0503,P265,45,M,General Medicine,05/10/2024,D289,General Physician,St. Mary Hospital,Miami,1505.71,0.75,Cash
+V0504,P125,82,M,Gynecology,06/04/2025,D210,Gynecologist,Lakeside General Hospital,Houston,9624.08,0.63,Card
+V0505,P402,2,M,Gynecology,27/07/2024,D234,Gynecologist,Sunrise Health Institute,Chicago,3641.75,0.9,Card
+V0506,P312,30,M,Neurology,14/04/2025,D279,Neurologist,Greenfield Medical Center,Miami,3029.65,0.36,Insurance
+V0507,P467,42,F,Pediatrics,22/06/2024,D225,Pediatrician,Greenfield Medical Center,Houston,1736.15,0.37,Cash
+V0508,P216,0,F,Dermatology,23/07/2024,D211,Dermatologist,Lakeside General Hospital,New York,8888.15,0.86,Cash
+V0509,P951,68,F,Orthopedics,01/04/2024,D283,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,9307.73,0.32,Insurance
+V0510,P304,5,M,Dermatology,03/09/2025,D237,Dermatologist,Lakeside General Hospital,Los Angeles,8645.71,0.64,Insurance
+V0511,P144,53,F,Oncology,27/06/2025,D289,Oncologist,MetroCare Clinic,Miami,901.27,0.43,Insurance
+V0512,P711,2,F,Dermatology,06/08/2025,D214,Dermatologist,MetroCare Clinic,New York,4429.02,0.42,Cash
+V0513,P230,69,F,Dermatology,06/10/2024,D230,Dermatologist,MetroCare Clinic,New York,3579.06,0.36,Card
+V0514,P222,54,F,Cardiology,24/03/2025,D201,Cardiologist,MetroCare Clinic,New York,1042.37,0.59,Insurance
+V0515,P858,21,M,Oncology,28/12/2024,D245,Oncologist,Greenfield Medical Center,Chicago,8414.51,0.44,Card
+V0516,P937,2,F,Cardiology,28/09/2024,D295,Cardiologist,Greenfield Medical Center,Miami,5208.69,0.78,Cash
+V0517,P864,70,F,Orthopedics,24/08/2024,D235,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,2601.18,0.55,Cash
+V0518,P661,42,M,General Medicine,13/06/2025,D259,General Physician,MetroCare Clinic,Chicago,4158.81,0.31,Card
+V0519,P218,37,M,Pediatrics,06/10/2024,D256,Pediatrician,Greenfield Medical Center,New York,9960.93,0.63,Card
+V0520,P149,5,F,Neurology,18/03/2025,D251,Neurologist,Lakeside General Hospital,Chicago,8821.33,0.71,Insurance
+V0521,P862,28,F,Pediatrics,23/06/2024,D223,Pediatrician,Lakeside General Hospital,New York,4160.88,0.64,Insurance
+V0522,P449,59,M,Pediatrics,30/12/2024,D282,Pediatrician,MetroCare Clinic,Miami,150.67,0.44,Cash
+V0523,P362,51,M,Gynecology,15/03/2025,D236,Gynecologist,MetroCare Clinic,Los Angeles,3753.55,0.55,Insurance
+V0524,P254,77,M,Gynecology,24/06/2024,D281,Gynecologist,Sunrise Health Institute,Los Angeles,6885.96,0.91,Insurance
+V0525,P250,60,M,Neurology,17/05/2024,D250,Neurologist,Sunrise Health Institute,Chicago,808.28,0.74,Insurance
+V0526,P947,49,F,Pediatrics,01/07/2025,D267,Pediatrician,Sunrise Health Institute,Chicago,656.75,0.97,Cash
+V0527,P946,31,F,Orthopedics,11/11/2024,D266,Orthopedic Surgeon,Greenfield Medical Center,New York,7511.08,0.57,Insurance
+V0528,P949,24,M,Neurology,01/04/2025,D250,Neurologist,Greenfield Medical Center,Houston,9964.44,0.71,Card
+V0529,P225,30,F,Orthopedics,15/09/2024,D211,Orthopedic Surgeon,Sunrise Health Institute,New York,8688.82,0.62,Insurance
+V0530,P508,7,F,Gynecology,26/09/2024,D230,Gynecologist,Greenfield Medical Center,Los Angeles,6719.29,0.42,Card
+V0531,P357,28,M,Oncology,19/04/2024,D201,Oncologist,MetroCare Clinic,Los Angeles,7353.58,0.45,Insurance
+V0532,P222,82,M,General Medicine,09/02/2024,D218,General Physician,Sunrise Health Institute,Chicago,3777.11,0.32,Cash
+V0533,P135,0,M,Orthopedics,25/04/2024,D257,Orthopedic Surgeon,Sunrise Health Institute,Miami,514.14,0.61,Insurance
+V0534,P952,46,F,Dermatology,05/04/2024,D202,Dermatologist,Greenfield Medical Center,New York,1125.66,0.89,Cash
+V0535,P555,30,M,Gynecology,30/06/2025,D217,Gynecologist,Greenfield Medical Center,Chicago,4592.09,0.55,Insurance
+V0536,P994,48,F,Cardiology,04/01/2025,D262,Cardiologist,St. Mary Hospital,Miami,3980.32,0.85,Card
+V0537,P638,80,F,Neurology,20/05/2025,D213,Neurologist,Lakeside General Hospital,New York,5802.58,0.91,Cash
+V0538,P470,42,F,Oncology,10/04/2025,D292,Oncologist,MetroCare Clinic,New York,4213.16,0.73,Cash
+V0539,P214,82,F,Pediatrics,02/06/2024,D213,Pediatrician,St. Mary Hospital,Chicago,2535.01,0.82,Insurance
+V0540,P200,14,M,Dermatology,23/06/2024,D224,Dermatologist,MetroCare Clinic,New York,6929.64,0.82,Insurance
+V0541,P266,68,M,Dermatology,14/12/2024,D242,Dermatologist,Greenfield Medical Center,Miami,4620.24,0.56,Cash
+V0542,P579,80,F,Cardiology,09/04/2024,D204,Cardiologist,St. Mary Hospital,Chicago,808.33,0.88,Insurance
+V0543,P639,37,F,Cardiology,10/03/2024,D220,Cardiologist,Lakeside General Hospital,Miami,5051.98,0.4,Insurance
+V0544,P238,33,M,Pediatrics,16/02/2024,D239,Pediatrician,Sunrise Health Institute,Miami,5334,0.81,Cash
+V0545,P907,28,M,Orthopedics,19/05/2025,D278,Orthopedic Surgeon,MetroCare Clinic,New York,7619.71,0.51,Insurance
+V0546,P258,53,M,Cardiology,25/02/2025,D208,Cardiologist,Sunrise Health Institute,New York,1002.17,0.8,Cash
+V0547,P720,39,M,Pediatrics,10/02/2024,D210,Pediatrician,Lakeside General Hospital,New York,3910.9,0.92,Cash
+V0548,P764,7,F,Neurology,14/05/2025,D279,Neurologist,Greenfield Medical Center,Miami,7455.68,0.43,Insurance
+V0549,P579,50,M,Gynecology,16/05/2024,D237,Gynecologist,Sunrise Health Institute,Los Angeles,7019.57,0.35,Card
+V0550,P520,23,M,Cardiology,11/02/2025,D240,Cardiologist,Lakeside General Hospital,Los Angeles,3555.98,0.92,Card
+V0551,P971,4,M,Dermatology,19/11/2024,D288,Dermatologist,MetroCare Clinic,Miami,1959.18,0.42,Card
+V0552,P254,79,M,Oncology,08/08/2025,D217,Oncologist,Lakeside General Hospital,Miami,688.42,0.78,Cash
+V0553,P403,35,F,General Medicine,23/12/2024,D295,General Physician,Lakeside General Hospital,Miami,4045.85,0.51,Card
+V0554,P831,1,F,Neurology,11/08/2025,D281,Neurologist,Sunrise Health Institute,Los Angeles,7526.72,0.92,Insurance
+V0555,P426,31,M,Gynecology,27/05/2025,D212,Gynecologist,MetroCare Clinic,Miami,2117.51,0.74,Cash
+V0556,P548,49,M,Pediatrics,08/08/2024,D253,Pediatrician,St. Mary Hospital,Miami,4784.07,0.85,Insurance
+V0557,P831,54,M,General Medicine,30/06/2025,D273,General Physician,MetroCare Clinic,Houston,9110.32,0.51,Card
+V0558,P100,7,F,Orthopedics,09/08/2024,D206,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,3978.41,0.54,Insurance
+V0559,P185,46,F,Gynecology,15/03/2024,D297,Gynecologist,Sunrise Health Institute,Houston,2290.33,0.7,Card
+V0560,P557,77,M,Oncology,03/12/2024,D204,Oncologist,Greenfield Medical Center,Los Angeles,8590.28,0.49,Cash
+V0561,P529,33,F,Pediatrics,16/04/2024,D221,Pediatrician,MetroCare Clinic,Miami,2911.37,0.86,Insurance
+V0562,P440,26,M,Orthopedics,20/06/2024,D292,Orthopedic Surgeon,MetroCare Clinic,Miami,7519.69,0.93,Insurance
+V0563,P371,65,M,General Medicine,10/05/2024,D224,General Physician,Lakeside General Hospital,Miami,8912.72,0.64,Insurance
+V0564,P359,69,M,Dermatology,11/06/2024,D252,Dermatologist,Lakeside General Hospital,New York,6447.36,0.61,Cash
+V0565,P282,76,M,Pediatrics,01/10/2024,D219,Pediatrician,Lakeside General Hospital,New York,896.2,0.85,Card
+V0566,P328,55,M,Cardiology,25/03/2025,D293,Cardiologist,Sunrise Health Institute,Los Angeles,945.1,0.41,Insurance
+V0567,P191,25,M,Dermatology,20/09/2025,D247,Dermatologist,St. Mary Hospital,Chicago,6557.98,0.63,Cash
+V0568,P861,32,F,Orthopedics,15/05/2024,D238,Orthopedic Surgeon,Sunrise Health Institute,Miami,8342.52,0.9,Cash
+V0569,P600,79,M,Neurology,20/01/2025,D228,Neurologist,Sunrise Health Institute,Chicago,7111.83,0.99,Cash
+V0570,P249,61,M,General Medicine,25/02/2024,D291,General Physician,Sunrise Health Institute,Los Angeles,5832.04,0.45,Card
+V0571,P252,45,M,Cardiology,26/05/2024,D295,Cardiologist,Lakeside General Hospital,Chicago,4105.91,0.81,Cash
+V0572,P187,3,F,General Medicine,27/02/2025,D292,General Physician,MetroCare Clinic,Chicago,1434.26,0.73,Cash
+V0573,P853,52,M,Gynecology,30/12/2024,D283,Gynecologist,MetroCare Clinic,Houston,6156.07,0.4,Insurance
+V0574,P239,65,M,Gynecology,05/10/2024,D210,Gynecologist,Greenfield Medical Center,New York,7688.29,0.99,Cash
+V0575,P227,13,F,Gynecology,02/09/2025,D231,Gynecologist,Sunrise Health Institute,Chicago,421.43,0.46,Cash
+V0576,P364,5,F,Neurology,07/04/2025,D217,Neurologist,Lakeside General Hospital,Chicago,3111.23,0.96,Cash
+V0577,P239,5,M,Cardiology,27/06/2025,D229,Cardiologist,St. Mary Hospital,New York,9062.25,0.55,Card
+V0578,P158,64,F,Dermatology,23/10/2024,D230,Dermatologist,Sunrise Health Institute,Houston,1235.39,0.67,Card
+V0579,P503,71,F,Orthopedics,16/09/2025,D220,Orthopedic Surgeon,Greenfield Medical Center,Los Angeles,5138.39,0.69,Cash
+V0580,P324,51,F,Gynecology,10/06/2024,D211,Gynecologist,Greenfield Medical Center,Chicago,6558.1,0.96,Card
+V0581,P742,30,F,Gynecology,18/06/2025,D272,Gynecologist,Greenfield Medical Center,Houston,952.2,0.38,Card
+V0582,P657,5,M,Orthopedics,26/04/2025,D264,Orthopedic Surgeon,MetroCare Clinic,Los Angeles,8745.2,0.65,Insurance
+V0583,P527,45,M,Cardiology,29/04/2024,D256,Cardiologist,Greenfield Medical Center,Chicago,1186.08,0.37,Card
+V0584,P334,72,M,Orthopedics,21/09/2025,D253,Orthopedic Surgeon,Greenfield Medical Center,Miami,421.91,0.88,Card
+V0585,P438,3,F,General Medicine,29/05/2025,D273,General Physician,Greenfield Medical Center,New York,7469.71,0.71,Insurance
+V0586,P666,3,F,Neurology,22/09/2025,D230,Neurologist,St. Mary Hospital,Houston,1764.71,0.44,Cash
+V0587,P528,57,F,Orthopedics,09/02/2025,D249,Orthopedic Surgeon,Greenfield Medical Center,Miami,4647.91,0.6,Card
+V0588,P543,16,F,Dermatology,14/08/2024,D260,Dermatologist,MetroCare Clinic,Los Angeles,4693.85,0.83,Insurance
+V0589,P989,3,M,Neurology,18/01/2025,D250,Neurologist,MetroCare Clinic,Chicago,4780.43,0.83,Card
+V0590,P581,20,F,Cardiology,18/12/2024,D258,Cardiologist,Lakeside General Hospital,Los Angeles,7876.26,0.92,Cash
+V0591,P606,72,M,Oncology,01/08/2024,D235,Oncologist,St. Mary Hospital,Miami,373.22,0.3,Insurance
+V0592,P978,18,M,Neurology,04/06/2024,D291,Neurologist,Lakeside General Hospital,Chicago,4926.05,0.5,Card
+V0593,P754,62,F,Oncology,03/05/2024,D222,Oncologist,St. Mary Hospital,New York,9656.41,0.76,Card
+V0594,P368,37,M,Dermatology,08/06/2024,D240,Dermatologist,St. Mary Hospital,Houston,9122.59,0.56,Cash
+V0595,P909,29,M,Gynecology,11/02/2025,D272,Gynecologist,Lakeside General Hospital,New York,3737.32,0.92,Cash
+V0596,P371,87,F,Dermatology,03/08/2025,D269,Dermatologist,Greenfield Medical Center,Chicago,9274.09,0.63,Card
+V0597,P113,32,M,Pediatrics,18/09/2024,D215,Pediatrician,St. Mary Hospital,Houston,8410.04,0.45,Insurance
+V0598,P977,21,F,General Medicine,24/04/2025,D258,General Physician,MetroCare Clinic,New York,7032.91,0.64,Insurance
+V0599,P473,32,M,Oncology,04/12/2024,D217,Oncologist,MetroCare Clinic,Miami,245.32,0.68,Insurance
+V0600,P365,86,M,Cardiology,26/05/2024,D290,Cardiologist,MetroCare Clinic,New York,1754.67,0.52,Cash
+V0601,P236,10,F,Dermatology,15/04/2025,D206,Dermatologist,MetroCare Clinic,Houston,7174.11,0.72,Card
+V0602,P504,27,M,General Medicine,08/12/2024,D229,General Physician,Greenfield Medical Center,Houston,8831.44,0.9,Card
+V0603,P591,12,M,Orthopedics,30/08/2024,D266,Orthopedic Surgeon,Lakeside General Hospital,New York,6002.66,0.85,Insurance
+V0604,P304,15,F,Neurology,13/01/2024,D228,Neurologist,St. Mary Hospital,New York,3337.79,0.48,Insurance
+V0605,P207,6,M,Neurology,14/08/2025,D298,Neurologist,MetroCare Clinic,Miami,2056.15,0.5,Insurance
+V0606,P126,29,F,Oncology,20/01/2024,D243,Oncologist,MetroCare Clinic,Los Angeles,6349.49,0.41,Insurance
+V0607,P781,15,M,Dermatology,04/01/2024,D277,Dermatologist,Sunrise Health Institute,New York,8855.67,0.63,Cash
+V0608,P581,55,M,Cardiology,28/04/2024,D263,Cardiologist,Greenfield Medical Center,Los Angeles,1800.98,0.97,Insurance
+V0609,P824,75,F,Neurology,28/04/2024,D285,Neurologist,Lakeside General Hospital,Houston,5151.02,0.6,Cash
+V0610,P984,70,F,Dermatology,27/03/2024,D256,Dermatologist,Greenfield Medical Center,Houston,2534.11,0.47,Card
+V0611,P956,15,M,Dermatology,12/01/2024,D225,Dermatologist,St. Mary Hospital,Houston,6765.9,0.74,Card
+V0612,P213,47,M,Orthopedics,27/07/2025,D264,Orthopedic Surgeon,MetroCare Clinic,Los Angeles,5581.53,0.33,Cash
+V0613,P223,38,F,Dermatology,15/01/2024,D223,Dermatologist,St. Mary Hospital,Chicago,134.71,0.6,Insurance
+V0614,P356,77,M,Pediatrics,07/08/2024,D264,Pediatrician,Lakeside General Hospital,Miami,2767.25,0.97,Card
+V0615,P844,81,M,Orthopedics,20/11/2024,D219,Orthopedic Surgeon,St. Mary Hospital,New York,3072.73,0.41,Insurance
+V0616,P196,0,F,Dermatology,19/05/2024,D296,Dermatologist,Sunrise Health Institute,Los Angeles,1712.52,0.35,Cash
+V0617,P506,78,M,Gynecology,28/03/2024,D255,Gynecologist,Sunrise Health Institute,New York,2739.03,0.63,Cash
+V0618,P278,18,M,Gynecology,14/04/2025,D272,Gynecologist,Greenfield Medical Center,New York,354.01,0.32,Card
+V0619,P507,30,M,Cardiology,07/07/2024,D243,Cardiologist,Greenfield Medical Center,Los Angeles,1468.95,0.92,Insurance
+V0620,P178,44,M,Orthopedics,29/03/2025,D269,Orthopedic Surgeon,St. Mary Hospital,Miami,168.36,0.63,Insurance
+V0621,P656,5,F,Dermatology,03/11/2024,D291,Dermatologist,St. Mary Hospital,Chicago,8142.99,0.43,Insurance
+V0622,P655,24,F,Oncology,20/11/2024,D254,Oncologist,Lakeside General Hospital,Los Angeles,5016.44,0.83,Card
+V0623,P859,79,F,Dermatology,21/03/2024,D209,Dermatologist,Lakeside General Hospital,Chicago,6576.07,0.39,Card
+V0624,P190,1,F,Gynecology,31/08/2024,D255,Gynecologist,Greenfield Medical Center,Chicago,6398.34,0.88,Insurance
+V0625,P242,37,F,Oncology,24/10/2024,D204,Oncologist,Greenfield Medical Center,Chicago,5001.65,0.77,Card
+V0626,P408,55,F,General Medicine,15/03/2025,D271,General Physician,Sunrise Health Institute,Los Angeles,7775,0.37,Insurance
+V0627,P970,63,M,Gynecology,30/09/2024,D247,Gynecologist,St. Mary Hospital,New York,8551.88,0.88,Cash
+V0628,P168,35,F,Orthopedics,27/06/2024,D234,Orthopedic Surgeon,St. Mary Hospital,New York,9971.76,0.71,Card
+V0629,P392,51,M,Dermatology,17/01/2025,D227,Dermatologist,St. Mary Hospital,Miami,9319.69,0.69,Insurance
+V0630,P780,2,M,Orthopedics,10/08/2024,D210,Orthopedic Surgeon,Sunrise Health Institute,Miami,8815.08,0.48,Insurance
+V0631,P141,62,F,Oncology,09/07/2024,D243,Oncologist,Greenfield Medical Center,Los Angeles,8938.45,0.57,Insurance
+V0632,P847,29,M,Neurology,06/08/2025,D276,Neurologist,St. Mary Hospital,New York,4464.32,0.52,Card
+V0633,P367,62,F,Gynecology,13/07/2025,D282,Gynecologist,Lakeside General Hospital,Chicago,7276.55,0.61,Insurance
+V0634,P866,84,M,Neurology,05/11/2024,D288,Neurologist,Greenfield Medical Center,Miami,4787.15,0.46,Insurance
+V0635,P482,5,F,Neurology,31/03/2025,D260,Neurologist,Sunrise Health Institute,Los Angeles,3055.44,0.5,Insurance
+V0636,P485,17,M,Neurology,19/07/2025,D293,Neurologist,Greenfield Medical Center,New York,5177.06,0.6,Insurance
+V0637,P428,72,F,Pediatrics,08/03/2024,D250,Pediatrician,Greenfield Medical Center,Chicago,6245.21,0.99,Insurance
+V0638,P669,1,M,Pediatrics,07/07/2024,D260,Pediatrician,MetroCare Clinic,Chicago,583.06,0.71,Card
+V0639,P938,16,F,General Medicine,21/07/2025,D265,General Physician,MetroCare Clinic,Los Angeles,4224.39,0.99,Cash
+V0640,P512,9,M,Dermatology,04/02/2024,D256,Dermatologist,Sunrise Health Institute,Houston,640.17,0.88,Cash
+V0641,P687,56,M,Cardiology,02/04/2025,D266,Cardiologist,MetroCare Clinic,Houston,5935.42,0.69,Cash
+V0642,P129,60,F,General Medicine,11/09/2025,D205,General Physician,Lakeside General Hospital,Houston,9483.56,0.77,Cash
+V0643,P631,29,M,Oncology,17/04/2024,D217,Oncologist,Greenfield Medical Center,New York,5046.47,0.95,Insurance
+V0644,P677,34,M,Gynecology,17/03/2024,D231,Gynecologist,MetroCare Clinic,Chicago,5227.1,0.32,Card
+V0645,P554,80,M,Dermatology,23/08/2025,D214,Dermatologist,MetroCare Clinic,New York,6231.45,0.57,Insurance
+V0646,P369,52,F,Gynecology,23/09/2025,D284,Gynecologist,St. Mary Hospital,Chicago,5435.23,0.75,Card
+V0647,P735,64,M,Orthopedics,06/05/2025,D251,Orthopedic Surgeon,Lakeside General Hospital,New York,163.46,0.37,Card
+V0648,P626,62,M,Gynecology,16/03/2024,D297,Gynecologist,Sunrise Health Institute,Miami,6974.29,0.44,Insurance
+V0649,P852,51,F,Orthopedics,22/11/2024,D221,Orthopedic Surgeon,Greenfield Medical Center,New York,8049.49,0.77,Cash
+V0650,P514,76,M,Pediatrics,04/06/2025,D291,Pediatrician,Greenfield Medical Center,Miami,2737.05,0.78,Insurance
+V0651,P369,88,F,Neurology,27/03/2024,D235,Neurologist,Greenfield Medical Center,Chicago,6667.97,0.65,Insurance
+V0652,P103,66,M,Neurology,23/12/2024,D200,Neurologist,MetroCare Clinic,Houston,5746.97,0.86,Card
+V0653,P280,33,M,Orthopedics,17/01/2024,D209,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,6172.47,0.58,Cash
+V0654,P147,57,F,General Medicine,29/02/2024,D234,General Physician,Lakeside General Hospital,Houston,9984.23,0.72,Card
+V0655,P703,34,M,Orthopedics,19/10/2024,D248,Orthopedic Surgeon,Sunrise Health Institute,Houston,5651.95,0.55,Card
+V0656,P706,72,M,General Medicine,01/02/2025,D205,General Physician,Lakeside General Hospital,Los Angeles,3311.26,0.69,Insurance
+V0657,P638,12,M,Oncology,17/10/2024,D293,Oncologist,Greenfield Medical Center,New York,1051.76,0.41,Cash
+V0658,P853,26,F,Gynecology,08/04/2024,D259,Gynecologist,Lakeside General Hospital,Houston,8202.44,0.62,Card
+V0659,P936,36,F,General Medicine,19/06/2024,D235,General Physician,Greenfield Medical Center,Los Angeles,8100.63,0.44,Insurance
+V0660,P883,23,F,Cardiology,16/03/2024,D225,Cardiologist,MetroCare Clinic,Miami,7359.72,0.4,Card
+V0661,P298,24,M,General Medicine,06/07/2024,D222,General Physician,Sunrise Health Institute,New York,9654.61,0.57,Card
+V0662,P669,16,F,Cardiology,12/03/2024,D270,Cardiologist,St. Mary Hospital,Los Angeles,4246.93,0.84,Card
+V0663,P579,9,M,Oncology,18/10/2024,D261,Oncologist,St. Mary Hospital,Los Angeles,9943.93,0.31,Insurance
+V0664,P216,88,M,Dermatology,05/06/2024,D225,Dermatologist,Lakeside General Hospital,Houston,7605.77,0.76,Cash
+V0665,P759,83,M,Pediatrics,10/04/2025,D223,Pediatrician,Sunrise Health Institute,Los Angeles,7849.47,0.35,Insurance
+V0666,P108,59,F,Cardiology,10/09/2025,D256,Cardiologist,St. Mary Hospital,Los Angeles,4968.31,0.39,Cash
+V0667,P790,3,M,General Medicine,06/02/2024,D224,General Physician,Greenfield Medical Center,Houston,1227.15,0.49,Cash
+V0668,P138,36,F,Dermatology,27/09/2024,D297,Dermatologist,MetroCare Clinic,Miami,6753.71,0.39,Cash
+V0669,P196,15,F,Neurology,22/01/2025,D224,Neurologist,St. Mary Hospital,Los Angeles,3287.44,1,Insurance
+V0670,P112,77,F,Dermatology,10/04/2025,D243,Dermatologist,Sunrise Health Institute,Houston,5603.37,0.92,Card
+V0671,P359,72,F,Gynecology,29/02/2024,D233,Gynecologist,Lakeside General Hospital,New York,9608.94,0.63,Cash
+V0672,P401,26,M,Cardiology,02/08/2025,D245,Cardiologist,Sunrise Health Institute,Chicago,1270.66,0.43,Insurance
+V0673,P902,56,M,Dermatology,16/07/2024,D272,Dermatologist,St. Mary Hospital,Houston,9982.07,0.61,Insurance
+V0674,P779,4,M,Pediatrics,28/08/2024,D288,Pediatrician,Sunrise Health Institute,New York,6175.5,0.39,Insurance
+V0675,P419,85,F,Pediatrics,29/07/2024,D274,Pediatrician,Sunrise Health Institute,Miami,6526.53,0.75,Cash
+V0676,P502,39,M,Neurology,10/01/2024,D230,Neurologist,Sunrise Health Institute,Chicago,7564.24,0.44,Card
+V0677,P868,60,M,Oncology,10/02/2024,D270,Oncologist,Sunrise Health Institute,Houston,5189.74,0.86,Cash
+V0678,P169,20,M,Dermatology,12/08/2025,D283,Dermatologist,Greenfield Medical Center,Miami,5773.54,0.74,Insurance
+V0679,P177,78,M,Cardiology,19/05/2024,D214,Cardiologist,MetroCare Clinic,Chicago,1221.69,0.66,Cash
+V0680,P618,25,M,Pediatrics,20/03/2025,D243,Pediatrician,MetroCare Clinic,Chicago,9110.72,0.77,Card
+V0681,P489,75,M,Gynecology,04/05/2024,D235,Gynecologist,MetroCare Clinic,Chicago,4603.24,0.92,Card
+V0682,P196,50,F,General Medicine,17/06/2025,D279,General Physician,St. Mary Hospital,Miami,8430.93,0.81,Cash
+V0683,P317,61,F,Cardiology,07/11/2024,D221,Cardiologist,Greenfield Medical Center,Chicago,5830.01,0.54,Insurance
+V0684,P808,28,F,Gynecology,15/09/2025,D268,Gynecologist,Sunrise Health Institute,Houston,4838.24,0.32,Card
+V0685,P551,74,F,Orthopedics,23/04/2024,D233,Orthopedic Surgeon,MetroCare Clinic,Miami,8151.85,1,Card
+V0686,P796,29,F,Oncology,23/01/2025,D218,Oncologist,Sunrise Health Institute,Houston,6066.03,0.71,Insurance
+V0687,P599,23,F,Gynecology,25/01/2024,D279,Gynecologist,St. Mary Hospital,Miami,8804.17,0.46,Card
+V0688,P189,68,F,Oncology,17/09/2024,D229,Oncologist,Sunrise Health Institute,Chicago,6434.02,0.36,Card
+V0689,P560,10,M,Dermatology,12/09/2024,D269,Dermatologist,Lakeside General Hospital,New York,7574.1,0.77,Cash
+V0690,P969,26,M,Dermatology,12/08/2024,D227,Dermatologist,MetroCare Clinic,Los Angeles,603.72,0.62,Insurance
+V0691,P196,45,F,Gynecology,07/08/2024,D287,Gynecologist,Lakeside General Hospital,New York,4631.29,0.8,Cash
+V0692,P798,81,M,Cardiology,13/11/2024,D215,Cardiologist,Greenfield Medical Center,Miami,7441.17,0.56,Insurance
+V0693,P123,22,F,Orthopedics,22/06/2025,D277,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,817.58,0.36,Insurance
+V0694,P858,55,M,Oncology,21/05/2025,D281,Oncologist,Lakeside General Hospital,Houston,1189.57,0.37,Cash
+V0695,P341,58,M,Pediatrics,01/02/2024,D292,Pediatrician,Greenfield Medical Center,Houston,607.21,0.34,Insurance
+V0696,P834,89,M,Orthopedics,01/03/2025,D278,Orthopedic Surgeon,Lakeside General Hospital,Los Angeles,3469.82,0.7,Card
+V0697,P588,61,M,Cardiology,12/01/2025,D252,Cardiologist,Lakeside General Hospital,Chicago,6812.21,0.75,Card
+V0698,P404,52,F,Oncology,20/02/2024,D255,Oncologist,St. Mary Hospital,Los Angeles,9713.39,0.72,Insurance
+V0699,P656,27,M,Oncology,08/02/2024,D279,Oncologist,Greenfield Medical Center,Chicago,121.62,0.46,Cash
+V0700,P274,12,M,Oncology,09/07/2024,D293,Oncologist,Lakeside General Hospital,Chicago,353.28,0.43,Card
+V0701,P482,75,F,Orthopedics,28/02/2024,D259,Orthopedic Surgeon,Greenfield Medical Center,Miami,6259.53,0.88,Insurance
+V0702,P718,45,F,Dermatology,30/12/2024,D295,Dermatologist,Lakeside General Hospital,New York,367.09,0.81,Card
+V0703,P966,79,F,Orthopedics,05/03/2024,D255,Orthopedic Surgeon,St. Mary Hospital,New York,5680.62,0.82,Cash
+V0704,P513,35,M,Neurology,04/12/2024,D209,Neurologist,Greenfield Medical Center,Miami,5907.75,0.54,Insurance
+V0705,P723,67,F,General Medicine,10/06/2025,D233,General Physician,Lakeside General Hospital,Houston,901.6,0.43,Insurance
+V0706,P697,48,M,Oncology,19/08/2024,D261,Oncologist,MetroCare Clinic,Houston,1077.3,0.65,Insurance
+V0707,P919,58,M,Cardiology,21/06/2025,D226,Cardiologist,Sunrise Health Institute,Chicago,5670.58,0.55,Insurance
+V0708,P213,77,F,Neurology,09/07/2025,D227,Neurologist,MetroCare Clinic,New York,1710.73,0.47,Insurance
+V0709,P754,56,M,Neurology,30/01/2025,D283,Neurologist,Greenfield Medical Center,Los Angeles,3339.03,0.74,Insurance
+V0710,P131,32,M,Orthopedics,23/01/2024,D233,Orthopedic Surgeon,Greenfield Medical Center,Houston,1142.24,0.6,Card
+V0711,P387,19,M,Oncology,07/09/2025,D298,Oncologist,MetroCare Clinic,Houston,7514.69,0.95,Insurance
+V0712,P798,14,M,Orthopedics,22/09/2024,D278,Orthopedic Surgeon,Greenfield Medical Center,Los Angeles,5687.97,0.73,Insurance
+V0713,P853,87,F,Oncology,02/06/2025,D273,Oncologist,Lakeside General Hospital,Chicago,9085.97,0.73,Cash
+V0714,P895,31,F,Orthopedics,02/10/2024,D203,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,1212.12,0.69,Insurance
+V0715,P892,40,F,Pediatrics,25/03/2025,D216,Pediatrician,Sunrise Health Institute,New York,1143.32,0.72,Insurance
+V0716,P477,40,F,Pediatrics,21/02/2025,D262,Pediatrician,Sunrise Health Institute,Chicago,5561.5,0.3,Cash
+V0717,P926,68,F,Cardiology,15/09/2024,D232,Cardiologist,Greenfield Medical Center,Houston,7889.02,0.47,Card
+V0718,P653,74,M,Neurology,09/06/2024,D239,Neurologist,St. Mary Hospital,Houston,2071.07,0.61,Insurance
+V0719,P130,74,M,General Medicine,09/05/2025,D271,General Physician,Sunrise Health Institute,Los Angeles,4890.03,0.9,Cash
+V0720,P139,88,F,Cardiology,29/08/2025,D291,Cardiologist,MetroCare Clinic,Chicago,1913.16,0.4,Cash
+V0721,P491,48,M,Pediatrics,15/01/2024,D253,Pediatrician,St. Mary Hospital,Miami,6540.16,0.88,Cash
+V0722,P927,62,F,Cardiology,01/07/2024,D215,Cardiologist,Sunrise Health Institute,Los Angeles,992.7,0.5,Card
+V0723,P977,28,F,Cardiology,22/03/2024,D268,Cardiologist,St. Mary Hospital,New York,9548.89,0.56,Insurance
+V0724,P693,48,M,Orthopedics,20/04/2024,D205,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,2446.91,0.89,Insurance
+V0725,P380,64,M,Neurology,19/08/2025,D248,Neurologist,Greenfield Medical Center,Los Angeles,2666.79,0.4,Cash
+V0726,P749,58,M,General Medicine,30/05/2025,D236,General Physician,St. Mary Hospital,Miami,1898.47,0.9,Insurance
+V0727,P966,36,M,Dermatology,19/01/2024,D203,Dermatologist,St. Mary Hospital,Houston,6380.11,0.68,Cash
+V0728,P138,61,M,Orthopedics,03/06/2025,D293,Orthopedic Surgeon,Sunrise Health Institute,Miami,6859.04,0.78,Card
+V0729,P274,23,F,Orthopedics,14/01/2024,D216,Orthopedic Surgeon,St. Mary Hospital,Houston,5645.74,0.52,Insurance
+V0730,P114,24,M,Oncology,28/03/2025,D287,Oncologist,Greenfield Medical Center,Houston,5869.52,0.88,Cash
+V0731,P668,25,F,General Medicine,17/07/2024,D261,General Physician,Lakeside General Hospital,Miami,7375.46,0.6,Insurance
+V0732,P339,41,M,Pediatrics,28/02/2025,D266,Pediatrician,MetroCare Clinic,Houston,4817.36,0.46,Card
+V0733,P925,22,M,General Medicine,10/01/2025,D204,General Physician,MetroCare Clinic,New York,8716.86,0.62,Card
+V0734,P980,8,M,Gynecology,13/05/2024,D247,Gynecologist,St. Mary Hospital,Chicago,499.86,0.37,Insurance
+V0735,P460,86,M,Pediatrics,05/07/2025,D263,Pediatrician,Greenfield Medical Center,Chicago,9205.36,0.38,Insurance
+V0736,P850,45,F,Dermatology,20/01/2024,D296,Dermatologist,Sunrise Health Institute,New York,1966.7,0.47,Cash
+V0737,P847,19,F,General Medicine,07/05/2024,D255,General Physician,Lakeside General Hospital,Chicago,1072.35,0.9,Cash
+V0738,P467,85,M,General Medicine,04/01/2025,D224,General Physician,Greenfield Medical Center,Miami,5067.24,0.79,Card
+V0739,P625,36,M,Orthopedics,31/08/2024,D255,Orthopedic Surgeon,Lakeside General Hospital,Los Angeles,1846.26,0.92,Card
+V0740,P464,44,M,Dermatology,22/06/2024,D215,Dermatologist,Greenfield Medical Center,New York,7310.77,0.55,Cash
+V0741,P823,3,M,Pediatrics,14/05/2024,D236,Pediatrician,Sunrise Health Institute,New York,5140.37,0.31,Insurance
+V0742,P942,56,F,Gynecology,10/06/2024,D235,Gynecologist,St. Mary Hospital,Miami,1766.86,0.63,Cash
+V0743,P398,48,M,Gynecology,15/04/2024,D260,Gynecologist,St. Mary Hospital,Houston,9825.57,0.48,Insurance
+V0744,P420,83,M,Cardiology,05/05/2024,D200,Cardiologist,Greenfield Medical Center,Los Angeles,8890.91,0.99,Card
+V0745,P541,9,M,Gynecology,13/09/2025,D244,Gynecologist,MetroCare Clinic,Houston,3387.27,0.53,Card
+V0746,P495,15,F,General Medicine,18/12/2024,D248,General Physician,Lakeside General Hospital,Miami,9320.66,0.66,Card
+V0747,P697,23,M,Pediatrics,05/09/2024,D201,Pediatrician,MetroCare Clinic,New York,5916.5,0.43,Card
+V0748,P900,6,M,Oncology,10/07/2024,D286,Oncologist,MetroCare Clinic,Chicago,6208.59,0.39,Insurance
+V0749,P995,76,F,Neurology,27/08/2024,D282,Neurologist,Lakeside General Hospital,New York,2682.45,0.53,Insurance
+V0750,P494,63,F,Cardiology,08/12/2024,D202,Cardiologist,Lakeside General Hospital,New York,8157.13,0.33,Card
+V0751,P772,67,F,Gynecology,15/04/2025,D223,Gynecologist,MetroCare Clinic,New York,5181.79,0.49,Card
+V0752,P839,29,M,Pediatrics,02/05/2024,D289,Pediatrician,Lakeside General Hospital,Los Angeles,7564.44,0.34,Insurance
+V0753,P877,66,M,Orthopedics,11/07/2024,D273,Orthopedic Surgeon,Sunrise Health Institute,Houston,1962.62,0.7,Cash
+V0754,P197,12,M,Cardiology,08/01/2024,D230,Cardiologist,Greenfield Medical Center,Los Angeles,2027.43,0.48,Card
+V0755,P552,86,M,Gynecology,13/04/2024,D245,Gynecologist,Greenfield Medical Center,New York,264.4,0.99,Insurance
+V0756,P411,18,F,Gynecology,16/04/2024,D255,Gynecologist,Lakeside General Hospital,Miami,508,0.75,Cash
+V0757,P497,86,M,Orthopedics,16/03/2024,D244,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,3872.72,0.93,Cash
+V0758,P887,5,F,Pediatrics,03/11/2024,D247,Pediatrician,Lakeside General Hospital,Miami,7481.27,0.53,Insurance
+V0759,P889,38,M,Cardiology,08/11/2024,D248,Cardiologist,Sunrise Health Institute,Houston,2277.72,0.72,Insurance
+V0760,P566,6,M,Cardiology,15/07/2024,D248,Cardiologist,MetroCare Clinic,Los Angeles,2087.8,0.84,Cash
+V0761,P704,2,F,Pediatrics,20/12/2024,D237,Pediatrician,Lakeside General Hospital,Houston,2510.9,0.69,Insurance
+V0762,P449,74,F,Pediatrics,09/08/2024,D223,Pediatrician,Lakeside General Hospital,New York,9342.19,0.81,Card
+V0763,P321,79,M,Cardiology,11/11/2024,D240,Cardiologist,Sunrise Health Institute,Chicago,2870.69,0.48,Card
+V0764,P580,56,M,Dermatology,11/05/2024,D244,Dermatologist,Greenfield Medical Center,Houston,7460.12,0.86,Insurance
+V0765,P857,73,F,Gynecology,23/01/2025,D268,Gynecologist,MetroCare Clinic,New York,3699.01,0.34,Card
+V0766,P812,8,M,Gynecology,08/04/2024,D297,Gynecologist,MetroCare Clinic,Chicago,9388.98,0.78,Card
+V0767,P557,16,M,Pediatrics,14/03/2025,D274,Pediatrician,Sunrise Health Institute,Chicago,1082.1,0.52,Cash
+V0768,P119,24,F,Pediatrics,11/12/2024,D279,Pediatrician,Sunrise Health Institute,Chicago,4648.06,0.8,Insurance
+V0769,P459,42,F,Oncology,05/04/2025,D273,Oncologist,St. Mary Hospital,Miami,7061.19,0.63,Card
+V0770,P322,11,F,Gynecology,01/04/2024,D233,Gynecologist,St. Mary Hospital,New York,1074.75,0.6,Card
+V0771,P255,77,M,Cardiology,18/02/2024,D298,Cardiologist,St. Mary Hospital,Miami,5568.15,0.54,Cash
+V0772,P466,36,M,Neurology,17/04/2025,D277,Neurologist,Lakeside General Hospital,Chicago,6566.19,0.58,Insurance
+V0773,P504,19,F,Oncology,07/08/2024,D227,Oncologist,Lakeside General Hospital,Los Angeles,2325.3,0.38,Cash
+V0774,P865,23,F,General Medicine,19/07/2024,D221,General Physician,MetroCare Clinic,Chicago,4804.5,0.62,Cash
+V0775,P710,63,F,Dermatology,11/12/2024,D281,Dermatologist,MetroCare Clinic,New York,9215.4,0.51,Cash
+V0776,P692,20,F,Neurology,01/07/2024,D206,Neurologist,Sunrise Health Institute,Chicago,8185.44,0.32,Cash
+V0777,P888,68,M,Dermatology,16/05/2024,D292,Dermatologist,MetroCare Clinic,Chicago,5916.61,0.57,Cash
+V0778,P220,66,F,General Medicine,06/02/2024,D251,General Physician,Greenfield Medical Center,Los Angeles,7670.71,0.44,Cash
+V0779,P287,87,F,Cardiology,25/07/2025,D205,Cardiologist,MetroCare Clinic,Miami,5331.43,0.42,Cash
+V0780,P855,52,M,Oncology,06/01/2024,D286,Oncologist,Lakeside General Hospital,Houston,5014.78,0.93,Card
+V0781,P309,16,M,Oncology,15/05/2025,D292,Oncologist,St. Mary Hospital,New York,8899.42,0.92,Card
+V0782,P155,37,M,Dermatology,25/03/2025,D243,Dermatologist,Greenfield Medical Center,Miami,4302.84,0.72,Insurance
+V0783,P546,27,M,Orthopedics,14/03/2024,D208,Orthopedic Surgeon,MetroCare Clinic,New York,5908.11,0.6,Card
+V0784,P142,40,F,Orthopedics,24/04/2024,D231,Orthopedic Surgeon,Lakeside General Hospital,Houston,2607.88,0.51,Insurance
+V0785,P834,9,M,Neurology,22/04/2024,D228,Neurologist,Sunrise Health Institute,New York,3133.86,0.6,Cash
+V0786,P676,49,M,Pediatrics,08/04/2024,D286,Pediatrician,MetroCare Clinic,Los Angeles,3988.15,0.75,Card
+V0787,P153,35,F,Neurology,30/12/2024,D253,Neurologist,MetroCare Clinic,New York,6912.58,0.98,Insurance
+V0788,P518,74,M,Pediatrics,15/02/2024,D292,Pediatrician,Greenfield Medical Center,Miami,5179.38,0.8,Cash
+V0789,P493,69,F,Neurology,20/04/2025,D214,Neurologist,MetroCare Clinic,Miami,5838.9,0.57,Card
+V0790,P981,69,M,Gynecology,04/10/2024,D205,Gynecologist,Sunrise Health Institute,Los Angeles,4967.71,0.7,Insurance
+V0791,P344,82,M,Pediatrics,15/12/2024,D219,Pediatrician,Lakeside General Hospital,Chicago,4948.35,0.99,Cash
+V0792,P174,22,M,Dermatology,30/04/2025,D209,Dermatologist,St. Mary Hospital,Houston,210.87,0.79,Insurance
+V0793,P584,24,F,Gynecology,11/09/2025,D246,Gynecologist,Lakeside General Hospital,New York,7463.59,0.83,Insurance
+V0794,P192,16,M,Cardiology,14/01/2024,D290,Cardiologist,MetroCare Clinic,Houston,3085.64,0.59,Cash
+V0795,P789,54,F,General Medicine,02/05/2024,D284,General Physician,MetroCare Clinic,Houston,6165.7,0.59,Insurance
+V0796,P598,57,F,Cardiology,06/08/2025,D295,Cardiologist,Lakeside General Hospital,Los Angeles,855.6,0.45,Insurance
+V0797,P905,7,F,Pediatrics,10/09/2025,D252,Pediatrician,St. Mary Hospital,Chicago,5343.59,0.73,Card
+V0798,P751,68,F,Neurology,01/09/2025,D227,Neurologist,Greenfield Medical Center,Houston,7337.93,0.94,Cash
+V0799,P637,89,M,General Medicine,27/05/2024,D218,General Physician,MetroCare Clinic,New York,2490.89,0.53,Insurance
+V0800,P253,57,F,Gynecology,10/06/2024,D200,Gynecologist,St. Mary Hospital,Chicago,9761.73,0.83,Insurance
+V0801,P318,88,M,Gynecology,09/03/2024,D288,Gynecologist,Lakeside General Hospital,Chicago,3730.27,0.45,Card
+V0802,P259,3,F,Cardiology,26/05/2024,D231,Cardiologist,St. Mary Hospital,Chicago,8487.15,0.76,Card
+V0803,P124,48,F,General Medicine,04/07/2024,D205,General Physician,St. Mary Hospital,New York,5172.95,0.62,Cash
+V0804,P752,81,M,Neurology,29/04/2024,D209,Neurologist,St. Mary Hospital,Houston,4010.16,0.73,Insurance
+V0805,P804,17,F,General Medicine,16/06/2025,D237,General Physician,Sunrise Health Institute,Los Angeles,8662.33,0.42,Cash
+V0806,P981,4,M,Neurology,22/01/2025,D240,Neurologist,Lakeside General Hospital,New York,1423.08,0.45,Card
+V0807,P611,54,F,Neurology,04/05/2024,D257,Neurologist,MetroCare Clinic,Los Angeles,4535.69,0.92,Insurance
+V0808,P820,29,F,Neurology,28/08/2025,D225,Neurologist,Lakeside General Hospital,New York,5768.88,0.4,Insurance
+V0809,P935,50,F,Cardiology,03/08/2025,D234,Cardiologist,Greenfield Medical Center,Miami,7658.75,0.75,Cash
+V0810,P717,15,F,Orthopedics,08/07/2024,D279,Orthopedic Surgeon,Sunrise Health Institute,Miami,956.03,0.71,Cash
+V0811,P977,39,F,Oncology,18/01/2024,D284,Oncologist,MetroCare Clinic,New York,7736.92,0.5,Card
+V0812,P340,1,F,Oncology,10/05/2024,D258,Oncologist,Greenfield Medical Center,Chicago,3800.16,0.72,Card
+V0813,P868,45,M,Pediatrics,12/04/2025,D263,Pediatrician,Sunrise Health Institute,Los Angeles,5132.14,0.77,Insurance
+V0814,P433,81,M,Pediatrics,03/04/2024,D210,Pediatrician,MetroCare Clinic,Los Angeles,7424.48,0.49,Card
+V0815,P805,23,M,General Medicine,24/07/2024,D295,General Physician,Sunrise Health Institute,New York,5508.74,0.37,Insurance
+V0816,P326,15,M,Neurology,13/04/2024,D277,Neurologist,MetroCare Clinic,Chicago,9437.02,0.8,Insurance
+V0817,P185,84,F,Neurology,05/08/2024,D252,Neurologist,Lakeside General Hospital,Miami,7445.58,0.4,Cash
+V0818,P210,75,F,Cardiology,01/02/2025,D274,Cardiologist,MetroCare Clinic,Chicago,3170.99,0.95,Cash
+V0819,P541,62,M,Gynecology,20/08/2024,D283,Gynecologist,St. Mary Hospital,Houston,2605.66,0.86,Insurance
+V0820,P938,34,M,Orthopedics,23/12/2024,D297,Orthopedic Surgeon,Sunrise Health Institute,Houston,4501.35,0.82,Cash
+V0821,P990,51,M,General Medicine,22/04/2025,D272,General Physician,Greenfield Medical Center,Chicago,9531.27,0.94,Card
+V0822,P504,38,M,Neurology,01/07/2024,D248,Neurologist,Sunrise Health Institute,New York,1172.69,0.88,Insurance
+V0823,P229,12,F,General Medicine,07/06/2025,D245,General Physician,Lakeside General Hospital,Houston,682.98,0.31,Insurance
+V0824,P181,44,F,Oncology,13/06/2025,D260,Oncologist,St. Mary Hospital,New York,2662.97,0.63,Cash
+V0825,P492,45,M,Dermatology,30/05/2024,D286,Dermatologist,Lakeside General Hospital,Los Angeles,5298.17,0.84,Insurance
+V0826,P796,30,F,Oncology,23/08/2024,D215,Oncologist,Lakeside General Hospital,New York,9937.45,0.52,Cash
+V0827,P493,41,M,Pediatrics,30/06/2025,D296,Pediatrician,Greenfield Medical Center,Houston,8746.67,0.64,Insurance
+V0828,P564,58,F,Dermatology,05/01/2024,D290,Dermatologist,St. Mary Hospital,Houston,7340.7,0.33,Insurance
+V0829,P441,59,M,Oncology,16/03/2025,D284,Oncologist,Sunrise Health Institute,Chicago,7405.27,0.48,Insurance
+V0830,P172,31,M,Neurology,20/08/2024,D290,Neurologist,St. Mary Hospital,Houston,9541.75,0.98,Card
+V0831,P886,50,F,Pediatrics,11/07/2024,D241,Pediatrician,Lakeside General Hospital,New York,2188.97,0.54,Card
+V0832,P240,31,M,Pediatrics,21/07/2025,D282,Pediatrician,Greenfield Medical Center,New York,6870.68,0.98,Card
+V0833,P286,8,F,Orthopedics,17/09/2024,D230,Orthopedic Surgeon,Lakeside General Hospital,New York,952.34,0.95,Insurance
+V0834,P301,26,M,Gynecology,25/01/2024,D283,Gynecologist,St. Mary Hospital,Chicago,4361.05,0.72,Card
+V0835,P549,7,M,Neurology,25/03/2025,D231,Neurologist,St. Mary Hospital,Los Angeles,7586.39,0.41,Cash
+V0836,P644,63,F,Pediatrics,17/03/2024,D293,Pediatrician,Lakeside General Hospital,Miami,6635.12,0.87,Card
+V0837,P620,74,F,Orthopedics,12/02/2025,D219,Orthopedic Surgeon,Greenfield Medical Center,Los Angeles,2525.7,0.48,Cash
+V0838,P931,21,M,General Medicine,25/02/2025,D202,General Physician,Greenfield Medical Center,New York,4851.3,0.44,Cash
+V0839,P484,62,F,Neurology,20/06/2024,D284,Neurologist,Sunrise Health Institute,New York,3465.02,0.89,Cash
+V0840,P334,66,F,Cardiology,20/02/2025,D203,Cardiologist,Sunrise Health Institute,Miami,1332.19,0.66,Insurance
+V0841,P155,1,M,Pediatrics,11/01/2024,D200,Pediatrician,Sunrise Health Institute,Miami,9608.15,0.97,Cash
+V0842,P874,60,M,General Medicine,04/01/2024,D208,General Physician,MetroCare Clinic,Chicago,975.07,0.69,Cash
+V0843,P569,4,M,Pediatrics,10/04/2024,D280,Pediatrician,Greenfield Medical Center,Houston,1155.3,0.43,Cash
+V0844,P351,50,M,General Medicine,05/02/2025,D294,General Physician,St. Mary Hospital,Miami,1515,0.74,Cash
+V0845,P470,53,F,Pediatrics,15/05/2025,D213,Pediatrician,Lakeside General Hospital,Houston,3881.72,0.8,Cash
+V0846,P630,58,F,General Medicine,11/02/2025,D210,General Physician,Greenfield Medical Center,Los Angeles,5210.25,0.6,Insurance
+V0847,P779,47,M,General Medicine,15/06/2025,D292,General Physician,St. Mary Hospital,Houston,8600.16,0.83,Insurance
+V0848,P777,9,M,Orthopedics,12/08/2025,D234,Orthopedic Surgeon,St. Mary Hospital,Houston,2206.5,0.35,Insurance
+V0849,P862,18,M,Dermatology,20/02/2025,D215,Dermatologist,Greenfield Medical Center,Houston,2430.65,0.32,Insurance
+V0850,P723,12,F,Oncology,04/04/2024,D245,Oncologist,Greenfield Medical Center,New York,1561.18,0.31,Cash
+V0851,P923,69,M,Gynecology,08/02/2024,D249,Gynecologist,Lakeside General Hospital,Houston,3976.05,0.62,Insurance
+V0852,P991,59,M,Dermatology,06/06/2024,D270,Dermatologist,Lakeside General Hospital,Chicago,8581.57,0.42,Insurance
+V0853,P207,81,M,Dermatology,27/03/2025,D224,Dermatologist,Sunrise Health Institute,Chicago,5917.93,0.48,Card
+V0854,P931,77,M,General Medicine,21/01/2025,D242,General Physician,MetroCare Clinic,Houston,9049.72,0.98,Insurance
+V0855,P896,39,F,General Medicine,02/08/2025,D241,General Physician,St. Mary Hospital,Miami,5535.34,0.64,Cash
+V0856,P672,37,F,Oncology,06/03/2024,D217,Oncologist,Sunrise Health Institute,Chicago,9801.72,0.96,Cash
+V0857,P812,7,M,Neurology,21/02/2024,D262,Neurologist,MetroCare Clinic,New York,800.19,0.88,Cash
+V0858,P495,53,M,General Medicine,06/05/2025,D265,General Physician,Greenfield Medical Center,Houston,4911.85,0.95,Card
+V0859,P742,57,F,General Medicine,31/08/2025,D210,General Physician,Greenfield Medical Center,Miami,7811.48,0.44,Card
+V0860,P556,41,M,General Medicine,20/08/2025,D298,General Physician,Lakeside General Hospital,Houston,2113.77,0.59,Cash
+V0861,P201,70,M,Pediatrics,10/02/2025,D203,Pediatrician,Greenfield Medical Center,Chicago,1071.78,0.53,Card
+V0862,P157,57,M,Oncology,18/02/2024,D237,Oncologist,Greenfield Medical Center,Los Angeles,1961.13,0.51,Insurance
+V0863,P160,45,F,Gynecology,31/08/2024,D226,Gynecologist,MetroCare Clinic,Houston,7416.46,0.58,Insurance
+V0864,P191,49,F,Gynecology,18/07/2024,D246,Gynecologist,MetroCare Clinic,Houston,1579.6,0.37,Insurance
+V0865,P411,27,M,Gynecology,13/02/2025,D216,Gynecologist,Lakeside General Hospital,Miami,9437.47,0.59,Cash
+V0866,P164,46,M,Dermatology,27/05/2025,D217,Dermatologist,MetroCare Clinic,Houston,8756.01,0.94,Insurance
+V0867,P741,52,F,Orthopedics,15/10/2024,D282,Orthopedic Surgeon,Greenfield Medical Center,Miami,8176.32,0.87,Cash
+V0868,P626,54,M,Gynecology,19/10/2024,D258,Gynecologist,Sunrise Health Institute,New York,2305.91,0.52,Card
+V0869,P713,0,F,Pediatrics,04/04/2025,D298,Pediatrician,MetroCare Clinic,New York,5517.6,0.54,Insurance
+V0870,P196,50,M,Neurology,24/04/2024,D247,Neurologist,Greenfield Medical Center,New York,2139.73,0.92,Card
+V0871,P804,8,F,General Medicine,15/12/2024,D203,General Physician,MetroCare Clinic,Miami,4929.51,0.75,Cash
+V0872,P214,50,F,Orthopedics,10/10/2024,D217,Orthopedic Surgeon,Lakeside General Hospital,Chicago,4533.2,0.56,Card
+V0873,P170,18,M,Dermatology,13/12/2024,D265,Dermatologist,Sunrise Health Institute,Miami,6113.6,0.79,Cash
+V0874,P675,8,F,Dermatology,22/01/2025,D232,Dermatologist,Greenfield Medical Center,Houston,447.81,0.4,Cash
+V0875,P854,46,M,Neurology,22/04/2024,D256,Neurologist,MetroCare Clinic,New York,9572.36,0.46,Insurance
+V0876,P284,77,M,Oncology,25/12/2024,D290,Oncologist,Greenfield Medical Center,Miami,8427.36,0.51,Insurance
+V0877,P558,23,F,Orthopedics,02/09/2025,D228,Orthopedic Surgeon,St. Mary Hospital,Chicago,8779.88,0.87,Insurance
+V0878,P498,31,M,General Medicine,10/06/2024,D218,General Physician,MetroCare Clinic,Miami,8035.41,0.76,Card
+V0879,P289,36,M,Dermatology,25/02/2024,D215,Dermatologist,St. Mary Hospital,Chicago,9048.06,0.31,Insurance
+V0880,P657,68,F,Gynecology,14/10/2024,D291,Gynecologist,St. Mary Hospital,Houston,5877.78,0.61,Insurance
+V0881,P820,68,M,Cardiology,06/05/2025,D254,Cardiologist,Lakeside General Hospital,Chicago,9989.14,0.97,Cash
+V0882,P874,49,F,Oncology,08/02/2025,D286,Oncologist,Greenfield Medical Center,Houston,3571.14,0.44,Cash
+V0883,P296,88,F,Gynecology,03/02/2025,D235,Gynecologist,Greenfield Medical Center,Houston,1907.74,0.53,Insurance
+V0884,P921,3,M,Oncology,09/03/2025,D275,Oncologist,Greenfield Medical Center,Los Angeles,6812.93,0.86,Insurance
+V0885,P441,48,M,Cardiology,15/05/2025,D241,Cardiologist,Lakeside General Hospital,Los Angeles,5063.76,0.72,Card
+V0886,P768,41,F,General Medicine,17/01/2024,D208,General Physician,Lakeside General Hospital,Chicago,6535.99,0.66,Cash
+V0887,P103,40,F,Neurology,08/07/2025,D273,Neurologist,Greenfield Medical Center,Houston,4690.8,0.54,Insurance
+V0888,P862,21,M,Dermatology,30/08/2025,D210,Dermatologist,Lakeside General Hospital,Los Angeles,9375.84,0.93,Insurance
+V0889,P487,32,M,Dermatology,05/06/2024,D223,Dermatologist,Lakeside General Hospital,Houston,4587.83,0.69,Card
+V0890,P838,65,M,Dermatology,15/05/2024,D264,Dermatologist,St. Mary Hospital,Miami,7148.04,0.4,Insurance
+V0891,P581,34,F,Cardiology,08/01/2025,D285,Cardiologist,Sunrise Health Institute,Miami,9433.2,0.52,Card
+V0892,P210,55,M,Neurology,10/08/2025,D247,Neurologist,MetroCare Clinic,Houston,9515.33,0.41,Card
+V0893,P612,70,F,Orthopedics,11/08/2025,D235,Orthopedic Surgeon,Greenfield Medical Center,Chicago,2746.2,0.49,Card
+V0894,P646,6,M,Dermatology,29/01/2025,D270,Dermatologist,MetroCare Clinic,Houston,8374.4,0.81,Cash
+V0895,P699,47,M,General Medicine,26/01/2024,D238,General Physician,Sunrise Health Institute,New York,3388.29,0.99,Card
+V0896,P975,29,M,General Medicine,07/03/2024,D216,General Physician,MetroCare Clinic,Chicago,7412.27,0.5,Insurance
+V0897,P901,56,F,Gynecology,12/10/2024,D226,Gynecologist,St. Mary Hospital,Houston,8852.95,0.95,Card
+V0898,P524,87,M,Oncology,09/07/2025,D239,Oncologist,Greenfield Medical Center,New York,4458.56,0.42,Insurance
+V0899,P252,49,M,Orthopedics,17/04/2025,D270,Orthopedic Surgeon,Lakeside General Hospital,Los Angeles,6826.2,0.43,Card
+V0900,P302,43,M,Orthopedics,27/03/2025,D285,Orthopedic Surgeon,St. Mary Hospital,Miami,5152.27,0.69,Cash
+V0901,P473,66,M,Gynecology,04/02/2024,D226,Gynecologist,MetroCare Clinic,Los Angeles,8056.93,0.34,Card
+V0902,P247,83,F,Cardiology,24/03/2025,D258,Cardiologist,Lakeside General Hospital,Los Angeles,9281.28,0.69,Insurance
+V0903,P534,85,M,Pediatrics,14/07/2024,D285,Pediatrician,MetroCare Clinic,New York,8189.68,0.32,Card
+V0904,P146,29,F,General Medicine,26/03/2025,D269,General Physician,Lakeside General Hospital,Houston,1216.99,0.94,Cash
+V0905,P438,22,M,General Medicine,01/08/2024,D258,General Physician,MetroCare Clinic,Houston,1135.28,0.41,Cash
+V0906,P284,85,F,Pediatrics,18/04/2024,D220,Pediatrician,St. Mary Hospital,Los Angeles,6164.59,0.95,Cash
+V0907,P798,1,M,Neurology,27/02/2025,D218,Neurologist,Lakeside General Hospital,Miami,7759.61,0.57,Card
+V0908,P994,20,M,Oncology,11/05/2025,D297,Oncologist,St. Mary Hospital,Los Angeles,107.51,0.86,Insurance
+V0909,P462,60,M,Dermatology,17/06/2024,D236,Dermatologist,St. Mary Hospital,Houston,1913.45,0.43,Cash
+V0910,P955,12,F,Pediatrics,07/05/2025,D264,Pediatrician,MetroCare Clinic,Los Angeles,1167.16,0.48,Cash
+V0911,P447,22,M,Orthopedics,20/09/2024,D281,Orthopedic Surgeon,MetroCare Clinic,Los Angeles,8364.55,0.65,Card
+V0912,P126,30,F,Cardiology,08/11/2024,D208,Cardiologist,Greenfield Medical Center,Chicago,6840.75,0.45,Insurance
+V0913,P706,5,M,General Medicine,17/08/2025,D260,General Physician,Lakeside General Hospital,Miami,717.81,0.61,Insurance
+V0914,P172,0,M,Oncology,30/07/2025,D240,Oncologist,MetroCare Clinic,Miami,2850,0.79,Cash
+V0915,P645,49,M,Oncology,28/10/2024,D251,Oncologist,Sunrise Health Institute,Miami,6626.48,0.75,Cash
+V0916,P176,57,F,Oncology,09/02/2025,D204,Oncologist,Sunrise Health Institute,Houston,9053.81,0.48,Cash
+V0917,P280,60,F,Neurology,26/02/2024,D237,Neurologist,Lakeside General Hospital,Chicago,8550.78,0.52,Cash
+V0918,P757,38,M,General Medicine,06/07/2024,D208,General Physician,St. Mary Hospital,New York,9029.27,0.52,Cash
+V0919,P136,43,M,Pediatrics,27/07/2025,D252,Pediatrician,Lakeside General Hospital,Houston,9131.34,0.82,Insurance
+V0920,P778,8,M,Cardiology,29/09/2025,D213,Cardiologist,St. Mary Hospital,Los Angeles,279.06,0.31,Cash
+V0921,P883,27,M,Pediatrics,12/04/2025,D297,Pediatrician,Greenfield Medical Center,New York,9939.74,0.56,Insurance
+V0922,P369,85,M,Oncology,11/02/2025,D204,Oncologist,Greenfield Medical Center,Chicago,9224.16,0.8,Card
+V0923,P746,57,M,Cardiology,26/04/2025,D266,Cardiologist,Greenfield Medical Center,Miami,1203.51,0.96,Insurance
+V0924,P631,61,F,General Medicine,09/04/2025,D233,General Physician,St. Mary Hospital,Chicago,9315.03,0.9,Insurance
+V0925,P642,34,M,Oncology,06/10/2024,D202,Oncologist,MetroCare Clinic,Los Angeles,8607.94,0.48,Cash
+V0926,P408,44,M,Cardiology,26/02/2025,D200,Cardiologist,Sunrise Health Institute,Miami,2858.87,0.83,Card
+V0927,P511,83,M,Oncology,14/04/2024,D293,Oncologist,Lakeside General Hospital,Houston,6585.67,0.77,Card
+V0928,P744,28,F,Cardiology,26/03/2024,D243,Cardiologist,Sunrise Health Institute,Miami,9244.24,0.81,Cash
+V0929,P582,76,M,Neurology,02/02/2024,D298,Neurologist,MetroCare Clinic,Houston,3096.82,0.6,Insurance
+V0930,P654,39,F,Neurology,18/03/2024,D253,Neurologist,MetroCare Clinic,Houston,4799.66,0.42,Cash
+V0931,P628,51,M,General Medicine,10/04/2024,D252,General Physician,Lakeside General Hospital,New York,4785.58,0.61,Insurance
+V0932,P867,68,F,Orthopedics,30/05/2024,D240,Orthopedic Surgeon,Greenfield Medical Center,New York,8521.41,0.55,Card
+V0933,P391,82,M,General Medicine,28/05/2024,D251,General Physician,Lakeside General Hospital,New York,8568.19,0.96,Insurance
+V0934,P786,18,M,Oncology,24/02/2025,D215,Oncologist,Greenfield Medical Center,Los Angeles,3377.86,0.31,Cash
+V0935,P643,28,M,Neurology,24/07/2025,D288,Neurologist,St. Mary Hospital,Los Angeles,354.79,0.34,Cash
+V0936,P924,54,M,Cardiology,01/07/2025,D262,Cardiologist,Sunrise Health Institute,Houston,4995.61,0.55,Insurance
+V0937,P477,88,M,Orthopedics,22/07/2024,D291,Orthopedic Surgeon,Sunrise Health Institute,Los Angeles,5702.05,0.9,Insurance
+V0938,P452,28,F,Orthopedics,25/01/2024,D283,Orthopedic Surgeon,Greenfield Medical Center,Miami,3893.63,0.8,Insurance
+V0939,P297,9,M,Neurology,20/01/2025,D204,Neurologist,Greenfield Medical Center,Houston,125.6,0.81,Insurance
+V0940,P105,35,M,Gynecology,30/01/2024,D210,Gynecologist,Sunrise Health Institute,New York,7363.43,0.76,Insurance
+V0941,P426,77,M,Oncology,09/01/2024,D209,Oncologist,Lakeside General Hospital,Los Angeles,3343.26,0.78,Cash
+V0942,P671,56,M,Orthopedics,27/09/2024,D200,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,3900.31,0.63,Insurance
+V0943,P903,45,M,Cardiology,02/06/2025,D218,Cardiologist,MetroCare Clinic,Chicago,1037.21,0.78,Insurance
+V0944,P945,6,F,Cardiology,10/05/2024,D256,Cardiologist,Greenfield Medical Center,Houston,3985.58,0.68,Insurance
+V0945,P502,70,F,Neurology,19/05/2024,D206,Neurologist,Lakeside General Hospital,Houston,7512.32,0.45,Cash
+V0946,P745,60,M,Cardiology,14/12/2024,D246,Cardiologist,Lakeside General Hospital,Houston,1426.96,0.68,Cash
+V0947,P815,1,F,Neurology,04/08/2024,D252,Neurologist,Greenfield Medical Center,Chicago,4961.1,0.62,Insurance
+V0948,P766,79,M,Pediatrics,16/12/2024,D215,Pediatrician,MetroCare Clinic,Miami,1661.79,0.78,Card
+V0949,P140,72,F,Orthopedics,15/04/2025,D240,Orthopedic Surgeon,Sunrise Health Institute,Miami,5047.83,0.95,Cash
+V0950,P686,45,F,Orthopedics,23/08/2024,D281,Orthopedic Surgeon,St. Mary Hospital,New York,9670.51,0.52,Insurance
+V0951,P196,41,F,General Medicine,30/05/2025,D242,General Physician,MetroCare Clinic,Chicago,3481.31,0.39,Card
+V0952,P895,58,M,Pediatrics,23/01/2024,D204,Pediatrician,Lakeside General Hospital,Houston,2144.23,0.77,Insurance
+V0953,P372,54,F,General Medicine,15/03/2025,D226,General Physician,Sunrise Health Institute,Houston,3730.45,0.65,Insurance
+V0954,P595,80,F,Gynecology,15/04/2025,D288,Gynecologist,St. Mary Hospital,Chicago,1935.72,0.45,Insurance
+V0955,P907,65,F,Gynecology,03/09/2025,D216,Gynecologist,MetroCare Clinic,Chicago,6071.78,0.52,Cash
+V0956,P130,64,M,Gynecology,29/01/2025,D285,Gynecologist,Sunrise Health Institute,Houston,3820.24,0.34,Insurance
+V0957,P775,66,F,Orthopedics,26/08/2025,D265,Orthopedic Surgeon,St. Mary Hospital,Chicago,6848.9,0.67,Insurance
+V0958,P471,68,M,General Medicine,10/06/2025,D293,General Physician,MetroCare Clinic,Chicago,3882.45,0.66,Cash
+V0959,P376,59,M,Gynecology,03/03/2025,D222,Gynecologist,Sunrise Health Institute,Chicago,9659.76,0.49,Insurance
+V0960,P371,72,F,Pediatrics,22/05/2024,D295,Pediatrician,Lakeside General Hospital,Miami,200.33,0.6,Card
+V0961,P562,23,F,Pediatrics,30/03/2024,D211,Pediatrician,Sunrise Health Institute,Houston,9222.07,0.93,Card
+V0962,P777,11,F,Orthopedics,11/04/2025,D222,Orthopedic Surgeon,St. Mary Hospital,Los Angeles,4933.6,0.67,Cash
+V0963,P541,24,F,Gynecology,01/04/2024,D289,Gynecologist,Sunrise Health Institute,Miami,8628.24,0.77,Insurance
+V0964,P429,58,M,Dermatology,17/08/2024,D261,Dermatologist,St. Mary Hospital,Chicago,3796.78,0.35,Insurance
+V0965,P387,56,M,Dermatology,30/05/2024,D267,Dermatologist,St. Mary Hospital,New York,8199.72,0.4,Insurance
+V0966,P646,27,M,General Medicine,04/08/2025,D204,General Physician,St. Mary Hospital,New York,5876.49,0.64,Card
+V0967,P649,22,F,Pediatrics,04/06/2024,D207,Pediatrician,MetroCare Clinic,New York,347.89,0.37,Card
+V0968,P788,14,M,General Medicine,16/08/2025,D217,General Physician,St. Mary Hospital,New York,3978.91,0.87,Insurance
+V0969,P993,62,M,Cardiology,04/07/2024,D257,Cardiologist,MetroCare Clinic,Houston,4398.91,0.74,Insurance
+V0970,P841,45,F,Orthopedics,21/10/2024,D294,Orthopedic Surgeon,MetroCare Clinic,Miami,4400.76,0.54,Insurance
+V0971,P651,37,F,Oncology,21/01/2025,D275,Oncologist,MetroCare Clinic,Chicago,4284.55,0.81,Insurance
+V0972,P148,31,M,Gynecology,29/06/2024,D251,Gynecologist,Lakeside General Hospital,New York,3417.35,0.78,Insurance
+V0973,P628,66,M,Pediatrics,01/11/2024,D241,Pediatrician,MetroCare Clinic,New York,6505.81,0.33,Cash
+V0974,P323,31,M,Dermatology,07/01/2024,D239,Dermatologist,St. Mary Hospital,Miami,8312.9,0.36,Cash
+V0975,P269,73,F,Oncology,05/05/2024,D235,Oncologist,Lakeside General Hospital,Houston,5213.87,1,Card
+V0976,P864,21,F,Neurology,04/04/2024,D268,Neurologist,St. Mary Hospital,Chicago,8083.85,0.6,Insurance
+V0977,P734,61,F,Pediatrics,17/09/2024,D294,Pediatrician,Greenfield Medical Center,Los Angeles,1180.97,0.48,Insurance
+V0978,P287,16,M,Oncology,10/12/2024,D290,Oncologist,Greenfield Medical Center,Los Angeles,2605.65,0.49,Card
+V0979,P689,62,M,Pediatrics,23/02/2024,D235,Pediatrician,Sunrise Health Institute,Chicago,4235.93,0.35,Insurance
+V0980,P492,49,M,Oncology,11/06/2025,D244,Oncologist,Lakeside General Hospital,Los Angeles,4717.88,0.96,Cash
+V0981,P772,17,M,General Medicine,12/08/2025,D202,General Physician,St. Mary Hospital,Los Angeles,9983.43,0.96,Cash
+V0982,P570,87,M,Pediatrics,03/04/2025,D269,Pediatrician,St. Mary Hospital,Miami,876.62,0.32,Card
+V0983,P382,86,F,Gynecology,30/06/2025,D226,Gynecologist,Sunrise Health Institute,New York,6376.43,0.86,Card
+V0984,P959,51,M,Gynecology,13/02/2025,D224,Gynecologist,Greenfield Medical Center,Houston,4606.67,0.83,Card
+V0985,P449,59,M,Orthopedics,06/06/2024,D229,Orthopedic Surgeon,Lakeside General Hospital,Miami,8917.76,0.53,Insurance
+V0986,P439,58,F,Orthopedics,25/02/2024,D265,Orthopedic Surgeon,Lakeside General Hospital,Houston,3926.98,0.71,Card
+V0987,P860,80,M,Oncology,13/11/2024,D204,Oncologist,Sunrise Health Institute,Houston,6107.7,0.74,Card
+V0988,P471,27,F,Cardiology,26/08/2024,D247,Cardiologist,Lakeside General Hospital,Miami,3764.11,0.91,Insurance
+V0989,P578,87,M,General Medicine,21/01/2024,D215,General Physician,MetroCare Clinic,Chicago,2221.58,0.32,Card
+V0990,P449,53,M,Neurology,23/02/2024,D204,Neurologist,St. Mary Hospital,Chicago,6568.66,0.51,Cash
+V0991,P894,47,M,Gynecology,13/10/2024,D246,Gynecologist,MetroCare Clinic,Houston,6427.03,0.41,Cash
+V0992,P922,86,F,Oncology,28/03/2025,D269,Oncologist,Greenfield Medical Center,New York,8946,0.36,Insurance
+V0993,P117,11,M,General Medicine,25/11/2024,D247,General Physician,Sunrise Health Institute,Los Angeles,4169.78,0.54,Insurance
+V0994,P284,6,M,Oncology,06/08/2025,D258,Oncologist,St. Mary Hospital,Los Angeles,8436.16,0.34,Insurance
+V0995,P546,5,M,Cardiology,20/05/2024,D240,Cardiologist,Greenfield Medical Center,Miami,8574.35,0.73,Cash
+V0996,P859,37,F,Neurology,26/08/2024,D262,Neurologist,St. Mary Hospital,Los Angeles,6962.55,0.8,Cash
+V0997,P259,73,F,Dermatology,14/07/2025,D200,Dermatologist,Lakeside General Hospital,Los Angeles,6190.05,0.71,Card
+V0998,P407,9,M,General Medicine,05/08/2025,D280,General Physician,Lakeside General Hospital,Chicago,7750.99,0.73,Cash
+V0999,P129,49,M,Oncology,18/04/2024,D280,Oncologist,St. Mary Hospital,New York,8535.9,0.33,Card
+V1000,P601,6,F,Cardiology,04/01/2025,D213,Cardiologist,MetroCare Clinic,New York,4920.06,0.48,Cash
