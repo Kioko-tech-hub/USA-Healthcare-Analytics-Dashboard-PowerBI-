@@ -86,7 +86,7 @@ Key insights:
 - Healthcare Analytics Concepts
 
 **Dashboard Previews**
-<img width="557" height="289" alt="image" src="https://github.com/user-attachments/assets/ead80805-b46f-40bd-bfac-1efe16dec75e" />
+<img width="1174" height="617" alt="Screenshot 2025-12-25 053855" src="https://github.com/user-attachments/assets/eec3764d-eb93-4767-9962-39288c6d1a08" />
 <img width="921" height="658" alt="Screenshot 2025-12-25 010827" src="https://github.com/user-attachments/assets/a22ee489-58ba-457a-bcec-1809c82cb722" />
 <img width="948" height="577" alt="Screenshot 2025-12-25 011148" src="https://github.com/user-attachments/assets/50f7e5ae-e6fe-41ef-bdc0-3ed6186136dd" />
 <img width="1152" height="607" alt="Screenshot 2025-12-25 035735" src="https://github.com/user-attachments/assets/0d5543a8-3273-4d97-b5a8-3f69207c7fce" />
